@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: Blogs
 permalink: /Blog/
 author_profile: true
 comments: true
