@@ -6,9 +6,6 @@ author_profile: true
 comments: true
 tof: true
 ---
- 
----------------------------------------------------------------------------------------------------------------------------    
---------------------------------------------------------------------------------------------------------------    
 ### Summary  
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 Enthusiastic Bioengineer eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Employs excellent leadership skills , critical thinking and multi-tasking strengths. Can build machine learning models for medical applications. Biomedical research Oriented. Motivated to learn, grow and excel in the Biomedical Industry.  
@@ -18,7 +15,7 @@ Enthusiastic Bioengineer eager to contribute to team success through hard work, 
 <b>Yildiz Technical University Lipid and Biocomposite Lab</b>  
 _Istanbul — Tissue Engineering Intern_  
 JUNE 2020 - AUGUST 2020  
-* Worked with senior students and produced Gelatin, Chitosan, PVA based bio-active glass nanocomposites for tissue regeneration research
+* Worked with senior students and produced Gelatin, Chitosan, PVA based bioactive glass nanocomposites for tissue regeneration research
 * Gained experience producing simulated body fluid, artificial saliva and stomach juice for in vitro research.  
 
 <b>Yildiz Technical University Lipid and Biocomposite Lab</b>  
@@ -26,7 +23,7 @@ _Istanbul — Tissue Engineering Intern_
 JANUARY 2020 - 1 MONTH  
 * Gained experience handling the Centrifuge, PH meter, nano pipettes, microscope and FTIR.
 * Standardized solutions from weighed mass or a stock solution
-* Produced Gelatin and Chitosan composites with bio-active glass  
+* Produced Gelatin and Chitosan composites with bioactive glass  
 
 ### Education  
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------   
@@ -46,11 +43,11 @@ GRADES: Biology A, Physics A, Chemistry A, Mathematics A, Further Mathematics A
 
 ### Awards  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------     
-<b>_Türkiye Burslari Scholarship 2018_</b>. This is a merit-based scholarship and I got selected to pursue my Undergraduate studies.
+<b>_Türkiye Burslari Scholarship 2018_</b>. It is a merit-based scholarship with over 100 thousand applicants from over 130 countries where I got selected to pursue my undergraduate studies.
 
-<b>_Regional Best Student Performance Award in 2017 National Advanced Level Exams_</b>. I got awarded with 178000 Franc CFAM  
+<b>_Regional Best Student Performance Award in 2017 National Advanced Level Exams_</b>. Over 10 thousand students from all over the country take this exam yearly. I featured out among the top 1/10 % of the total. I got awarded with 178000 Franc CFA. 
 
-<b>_Winner of the National Medical Olympiads 2017_<b>
+<b>_Winner of the National Medical Olympiads 2017_<b> A group of medical students called Intelligentsia organize the competition. The competition looks similar in strength to the actual national medical exam for access to a medical school. More than 1000 students participated and I won the first position in the medical category. I got awarded a certificate of excellence.
 
 ### SKILLS  
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------      
