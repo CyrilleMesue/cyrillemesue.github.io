@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: Taken Courses
 permalink: /Courses/
 author_profile: true
