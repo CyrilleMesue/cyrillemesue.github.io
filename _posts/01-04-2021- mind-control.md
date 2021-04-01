@@ -1,6 +1,6 @@
 --- 
 title: "The Impact of Covid-19 on Your Mental Health And How To Manage Your Mental Health During a Pandemic or any Other Chronic Threat"
-layout: arhcive
+layout: post
 author_profile: true
 comments: true
 ---
