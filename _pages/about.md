@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 permalink: /About/
 tilte: About Me
 author_profile: true
