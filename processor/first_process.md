@@ -1,0 +1,2 @@
+def findgene(dna,gene)
+  
