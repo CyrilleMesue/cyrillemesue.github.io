@@ -107,7 +107,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: #"fab fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/cyrille-mesue-njume-3a448a184/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
