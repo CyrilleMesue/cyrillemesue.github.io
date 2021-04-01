@@ -1,6 +1,7 @@
 ---
 layout: archive
 permalink: /About/
+tilte: About Me
 author_profile: true
 comments: true
 ---
