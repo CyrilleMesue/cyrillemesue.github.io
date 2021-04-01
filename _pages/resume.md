@@ -47,7 +47,7 @@ GRADES: Biology A, Physics A, Chemistry A, Mathematics A, Further Mathematics A
 
 <b>_Regional Best Student Performance Award in 2017 National Advanced Level Exams_</b>. Over 10 thousand students from all over the country take this exam yearly. I featured out among the top 1/10 % of the total. I got awarded with 178000 Franc CFA. 
 
-<b>_Winner of the National Medical Olympiads 2017_<b> A group of medical students called Intelligentsia organize the competition. The competition looks similar in strength to the actual national medical exam for access to a medical school. More than 1000 students participated and I won the first position in the medical category. I got awarded a certificate of excellence.
+<b>_Winner of the National Medical Olympiads 2017_<b>. A group of medical students called Intelligentsia organize the competition. The competition looks similar in strength to the actual national medical exam for access to a medical school. More than 1000 students participated and I won the first position in the medical category. I got awarded a certificate of excellence.
 
 ### SKILLS  
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------      
@@ -59,7 +59,7 @@ GRADES: Biology A, Physics A, Chemistry A, Mathematics A, Further Mathematics A
 * Critical Thinking
 * Software: Python, Matlab, Java, JavaScript, CSS, MS Excel, MS Word, MS Powerpoint, Tensorflow   
 
-## Languages  
+### Languages  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------   
 * <b>English</b>  - Full Professional Proficiency  
 * <b>French</b> - Professional Working Proficiency  
