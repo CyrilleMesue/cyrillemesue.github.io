@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 tilte: Certificates and Awards
 permalink: /Certification/
 author_profile: true
