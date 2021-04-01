@@ -49,7 +49,7 @@ GRADES: Biology A, Physics A, Chemistry A, Mathematics A, Further Mathematics A
 
 <b>_Winner of the National Medical Olympiads 2017_<b>. A group of medical students called Intelligentsia organize the competition. The competition looks similar in strength to the actual national medical exam for access to a medical school. More than 1000 students participated and I won the first position in the medical category. I got awarded a certificate of excellence.
 
-### SKILLS  
+### Skills  
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------      
 * Bioengineering Lab Research 
 * Computer Programming 
