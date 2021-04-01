@@ -7,5 +7,5 @@ comments: true
 ---
 
 {% for post in site.posts %}
-  <a href="{{ post.url }}">{{ post.title }}</a>
+  {% include archive-single.html %}
 {% endfor %}
