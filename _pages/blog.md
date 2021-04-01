@@ -7,5 +7,5 @@ comments: true
 ---
 
 {% for post in site.posts %}
-  {% include archive-single.html %}
+  * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
 {% endfor %}
