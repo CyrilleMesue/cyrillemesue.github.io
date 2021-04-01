@@ -1,6 +1,10 @@
 ---
+layout: archive
 permalink: /Blog/
+author_profile: true
+comments: true
 ---
+ This is my blog page
 
 <ul>
   {% for post in site.posts %}
