@@ -53,37 +53,37 @@ Apart from taking courses from the university, I fell the need to expand my know
 
 ## MOOC Courses  
 ### Biology Courses   
-  1. [The Science of Stem Cells](https://www.coursera.org/learn/stem-cells?)
-  2. [COVID-19: What You Need to Know (CME Eligible)](https://www.coursera.org/learn/covid-19-what-you-need-to-know?page=2&index=prod_all_products_term_optimization)
-  3. [Mind Control: Managing Your Mental Health During COVID-19](https://www.coursera.org/learn/manage-health-covid-19)
-  4. [COVID-19 Contact Tracing](https://www.coursera.org/learn/covid-19-contact-tracing)
+  * [The Science of Stem Cells](https://www.coursera.org/learn/stem-cells?)
+  * [COVID-19: What You Need to Know (CME Eligible)](https://www.coursera.org/learn/covid-19-what-you-need-to-know?page=2&index=prod_all_products_term_optimization)
+  * [Mind Control: Managing Your Mental Health During COVID-19](https://www.coursera.org/learn/manage-health-covid-19)
+  * [COVID-19 Contact Tracing](https://www.coursera.org/learn/covid-19-contact-tracing)
   
 ### Programming Courses  
-  1. [Python Basics](https://www.coursera.org/learn/python-basics?specialization=python-3-programming)
-  2. [Python Functions, Files, and Dictionaries](https://www.coursera.org/learn/python-functions-files-dictionaries?specialization=python-3-programming)
-  3. [Data Collection and Processing with Python](https://www.coursera.org/learn/data-collection-processing-python?specialization=python-3-programming)
-  4. [Python Classes and Inheritance](https://www.coursera.org/learn/python-classes-inheritance?specialization=python-3-programming)
-  5. [Programming Foundations with JavaScript, HTML and CSS](https://www.coursera.org/learn/duke-programming-web?specialization=java-programming)
-  6. [Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming?specialization=java-programming)
-  7. [Introduction to Programming with MATLAB](https://www.coursera.org/learn/matlab?specialization=matlab-programming-engineers-scientists)
+  * [Python Basics](https://www.coursera.org/learn/python-basics?specialization=python-3-programming)
+  * [Python Functions, Files, and Dictionaries](https://www.coursera.org/learn/python-functions-files-dictionaries?specialization=python-3-programming)
+  * [Data Collection and Processing with Python](https://www.coursera.org/learn/data-collection-processing-python?specialization=python-3-programming)
+  * [Python Classes and Inheritance](https://www.coursera.org/learn/python-classes-inheritance?specialization=python-3-programming)
+  * [Programming Foundations with JavaScript, HTML and CSS](https://www.coursera.org/learn/duke-programming-web?specialization=java-programming)
+  * [Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming?specialization=java-programming)
+  * [Introduction to Programming with MATLAB](https://www.coursera.org/learn/matlab?specialization=matlab-programming-engineers-scientists)
 
 ### Engineering and AI Courses
-  1. [Differential Equations for Engineers](https://www.coursera.org/learn/differential-equations-engineers)
-  2. [Machine Learning](https://www.coursera.org/learn/machine-learning?)
-  3. [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
-  4. [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
-  5. [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
+  * [Differential Equations for Engineers](https://www.coursera.org/learn/differential-equations-engineers)
+  * [Machine Learning](https://www.coursera.org/learn/machine-learning?)
+  * [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
+  * [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
+  * [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
   
 ### Other Courses
-  1. [Write Professional Emails in English](https://www.coursera.org/learn/professional-emails-english?specialization=improve-english)
-  2. [Speak English Professionally: In Person, Online & On the Phone](https://www.coursera.org/learn/speak-english-professionally?specialization=improve-english)
-  3. [Build Your Professional ePortfolio in English](https://www.coursera.org/learn/eportfolio-english?specialization=improve-english)
-  4. [Take Your English Communication Skills to the Next Level](https://www.coursera.org/learn/english-communication-capstone?specialization=improve-english)
-  6. [Excel Skills for Business: Essentials](https://www.coursera.org/learn/excel-essentials?specialization=excel)
-  7. [Excel Skills for Business: Intermediate I](https://www.coursera.org/learn/excel-intermediate-1?specialization=excel)
-  8. [Excel Skills for Business: Intermediate II](https://www.coursera.org/learn/excel-intermediate-2?specialization=excel)
-  9. [Excel Skills for Business: Advanced](https://www.coursera.org/learn/excel-advanced?specialization=excel)
-  10. [Excel/VBA for Creative Problem Solving, Part 1](https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-1?specialization=excel-vba-creative-problem-solving)
+  * [Write Professional Emails in English](https://www.coursera.org/learn/professional-emails-english?specialization=improve-english)
+  * [Speak English Professionally: In Person, Online & On the Phone](https://www.coursera.org/learn/speak-english-professionally?specialization=improve-english)
+  * [Build Your Professional ePortfolio in English](https://www.coursera.org/learn/eportfolio-english?specialization=improve-english)
+  * [Take Your English Communication Skills to the Next Level](https://www.coursera.org/learn/english-communication-capstone?specialization=improve-english)
+  * [Excel Skills for Business: Essentials](https://www.coursera.org/learn/excel-essentials?specialization=excel)
+  * [Excel Skills for Business: Intermediate I](https://www.coursera.org/learn/excel-intermediate-1?specialization=excel)
+  * [Excel Skills for Business: Intermediate II](https://www.coursera.org/learn/excel-intermediate-2?specialization=excel)
+  * [Excel Skills for Business: Advanced](https://www.coursera.org/learn/excel-advanced?specialization=excel)
+  * [Excel/VBA for Creative Problem Solving, Part 1](https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-1?specialization=excel-vba-creative-problem-solving)
  
  
 I visit many online learning platforms for learning, but Coursera is where I stabilize. However, you might have a different taste for a particular platform. I prefer coursera because most of the courses have a video-lecture-to-practice-questions-to-project nature. 
