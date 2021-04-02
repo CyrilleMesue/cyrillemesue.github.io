@@ -10,10 +10,11 @@ main:
     url: /Portfolio/
   - title: "Certification"
     url: /Certification/
-  - title: "Blog"
-    url: /Blog/
   - title: "Courses"
     url: /Courses/
+  - title: "Blog"
+    url: /Blog/
+
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
