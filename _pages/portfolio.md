@@ -4,7 +4,8 @@ title: My Portfolio
 permalink: /Portfolio/
 author_profile: true
 comments: true
-toc:true
+toc: true
 ---
 
-##### Project 01 | Basic Genomic Data Analysis with Python
+##### Project 01 | Basic Genomic Data Analysis with Python  
+ Blablabla
