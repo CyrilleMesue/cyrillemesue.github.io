@@ -6,10 +6,9 @@ author_profile: true
 comments: true
 toc: true
 ---
- On this page, I will outline some of the major courses, both undergruates courses and Extracurricular Courses that help shape me into who I am. For the MOOCs, you can click on the course to access it online, though you might be required to pay for some of the courses.
+On this page, I will outline some of the major courses, both undergruates courses and Extracurricular Courses that help shape me into who I am. For the MOOCs, you can click on the course to access it online, though you might be required to pay for some of the courses.
  
  ## Undergraduate Courses  
- -----------------------------------------------------------  
  ### First Semester Courses(2019/2020 Fall Sememester)  
  * Introduction to Bioengineering
  * Introduction to Computer Sciences
@@ -40,7 +39,7 @@ toc: true
 * Biomedical Electronics
 
 I am currently pursuing my undergraduate studies. Below the undergraduate courses I am taking this semster
-
+### Fourth Semester Courses(2020/2021 Spring Semester)
 * Fluid Mechanics in Bioengineering
 * Biomaterials
 * Cell Biology and Cellular Mechanisms
