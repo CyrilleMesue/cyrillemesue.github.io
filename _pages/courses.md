@@ -86,9 +86,9 @@ Apart from taking courses from the university, I fell the need to expand my know
   10. [Excel/VBA for Creative Problem Solving, Part 1](https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-1?specialization=excel-vba-creative-problem-solving)
  
  
-I visit many online learning platforms for learning, but Coursera is where I stabilize. However, you might have a different taste for a particular platform. I prefer coursera because most of the courses have a video lecture to practice questions to project nature. 
+I visit many online learning platforms for learning, but Coursera is where I stabilize. However, you might have a different taste for a particular platform. I prefer coursera because most of the courses have a video-lecture-to-practice-questions-to-project nature. 
 
-You might be worrying about how to afford the course, but some of these couses are free and many of the study platforms out there offer financial aid or a low pay rate premium subscription to students.
+You might be worrying about affording the course, but some of these couses are free and many of the study platforms out there offer financial aid or a low pay rate premium subscription to students for paid courses.
 
 Below is a link to the main catalog of some of the helpful MOOC platforms I know.
 ### MOOC Platforms  
@@ -102,4 +102,4 @@ Below is a link to the main catalog of some of the helpful MOOC platforms I know
 * [Alison Courses](https://alison.com/)
 * [MIT OpenCourseWare](https://ocw.mit.edu/)
 
-I am also eager to learn more. Knowing that I am interested in Biomedical Technologies Digital Patholgy, if you have any courses or online resources, please leave it in the comment box below.
+I am also eager to learn more. Knowing that I am interested in Biomedical Technologies and Digital Patholgy, if you have any courses or online resources, please leave it in the comment box below. Also, if you want to take any of the above courses and you want me to provide you with some tips and guidelines. You can as well leave a message in the comment box below.
