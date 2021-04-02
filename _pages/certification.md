@@ -61,7 +61,7 @@ To view the certificatesi simply click on the certificate name.
 * [Mind Control: Managing Your Mental Health During COVID-19](https://coursera.org/share/5b90531dd4673ff188b8a7f799c9b0dd)
 * [COVID-19 Contact Tracing](https://coursera.org/share/acc726eeb5c6c7ea16a99bd6e81a92b1)
 
-### Webinars & Conferences
+## Webinars & Conferences
 * [Apollo Digital Pathology Summit 2021. Dawn of the Digital Era in Pathology Webinar](https://drive.google.com/file/d/1nDEbfHal6M6fX79jk-HypUnFhIbKPKzN/view?usp=sharing)
 * [Knowledge and Awareness on Covid-19](https://drive.google.com/file/d/1v0wHMnLflUTLhU2p99GJZNnBtQU4CftP/view?usp=sharing)
 
