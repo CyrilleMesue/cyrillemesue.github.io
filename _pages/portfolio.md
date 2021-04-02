@@ -7,6 +7,4 @@ comments: true
 toc:true
 ---
 
-Below are my recent projects.
-
 ##### Project 01 | Basic Genomic Data Analysis with Python
