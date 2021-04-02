@@ -6,10 +6,10 @@ author_profile: true
 comments: true
 toc: true
 ---
-On this page, I will outline some of the major courses, both undergruates courses and Extracurricular Courses that help shape me into who I am. For the MOOCs, you can click on the course to access it online, though you might be required to pay for some of the courses.
- 
- ## Undergraduate Courses  
- ### First Semester Courses(2019/2020 Fall Sememester)  
+On this page, I will outline some of the major courses, both undergruates courses and Extracurricular Courses that help shape me into who I am. For the MOOCs, you can click on the course to access it online, though you might be required to pay for some of the courses.  
+
+## Undergraduate Courses  
+### First Semester Courses(2019/2020 Fall Sememester)  
  * Introduction to Bioengineering
  * Introduction to Computer Sciences
  * Physics 01
@@ -91,7 +91,7 @@ I visit many online learning platforms for learning, but Coursera is where I sta
 You might be worrying about how to afford the course, but some of these couses are free and many of the study platforms out there offer financial aid or a low pay rate premium subscription to students.
 
 Below is a link to the main catalog of some of the helpful MOOC platforms I know.
-
+### MOOC Platforms  
 * [Coursera](https://www.coursera.org/)
 * [Edx](https://www.edx.org/)
 * [Udacity](https://www.udacity.com/)
