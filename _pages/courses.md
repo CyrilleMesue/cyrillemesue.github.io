@@ -38,7 +38,7 @@ On this page, I will outline some of the major courses, both undergruates course
 * Principles of Atatürk and History of Modern Turkey I
 * Biomedical Electronics
 
-I am currently pursuing my undergraduate studies. Below the undergraduate courses I am taking this semster
+I am currently pursuing my fourth semester undergraduate studies. Below are the undergraduate courses I am taking this semster
 ### Fourth Semester Courses(2020/2021 Spring Semester)
 * Fluid Mechanics in Bioengineering
 * Biomaterials
