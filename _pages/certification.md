@@ -11,13 +11,13 @@ Throughtout my journey as a student, I encountered rises and falls. They are all
 To view the certificatesi simply click on the certificate name.  
 
 ## Graduation Certificates  
-* [Turkish Language Academy C1 Certificate]
-* [Advanced Level Certificate(High School Diploma)]
-* [Ordinary Level Certificate(Secondary Scool Diploma)]
+* [Turkish Language Academy C1 Certificate](https://drive.google.com/file/d/1A6rMVlQ3yT8N4Vk6bZmyabrhLtReBAZh/view?usp=sharing)
+* [Advanced Level Certificate(High School Diploma)](https://drive.google.com/file/d/1xoFYWiF-bfrCer-jfLzwaBWGhWDA-85p/view?usp=sharing)
+* [Ordinary Level Certificate(Secondary Scool Diploma)](https://drive.google.com/file/d/1105kn1p1XVrREdAWlDUsZSmBYUy3s4X7/view?usp=sharing)
 
 ## Awards  
-* [High School Honours]
-* [National Medical Olympiads Certificate of Excellence]  
+* [High School Honours](https://drive.google.com/file/d/1yDzxjThlJoQ7GmcSRhFoZFNDOcAEqxh7/view?usp=sharing)
+* [National Medical Olympiads Certificate of Excellence](https://drive.google.com/file/d/1pUAYzv9vK7Q0WgMP1ew7qJYK_iSIHA9_/view?usp=sharing)  
 
 ## Extracurricular Courses  
 ### Deep Learning Coursera Specialization  
@@ -60,4 +60,9 @@ To view the certificatesi simply click on the certificate name.
 * [COVID-19: What You Need to Know (CME Eligible)](https://coursera.org/share/353e5a84a43512e789cd041f88063ddb)
 * [Mind Control: Managing Your Mental Health During COVID-19](https://coursera.org/share/5b90531dd4673ff188b8a7f799c9b0dd)
 * [COVID-19 Contact Tracing](https://coursera.org/share/acc726eeb5c6c7ea16a99bd6e81a92b1)
+
+### Webinars & Conferences
+* [Apollo Digital Pathology Summit 2021. Dawn of the Digital Era in Pathology Webinar](https://drive.google.com/file/d/1nDEbfHal6M6fX79jk-HypUnFhIbKPKzN/view?usp=sharing)
+* [Knowledge and Awareness on Covid-19](https://drive.google.com/file/d/1v0wHMnLflUTLhU2p99GJZNnBtQU4CftP/view?usp=sharing)
+
 
