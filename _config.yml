@@ -298,3 +298,4 @@ defaults:
       comments: true
       share: true
       related: true
+      title: true
