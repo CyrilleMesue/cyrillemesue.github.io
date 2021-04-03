@@ -1,7 +1,7 @@
 ---
 layout: single
-permalink: /About/
 tilte: About Me
+permalink: /About/
 author_profile: true
 comments: true
 toc: true
