@@ -1,6 +1,6 @@
 ---
 layout: single
-tilte: About
+title: About Me
 permalink: /About/
 author_profile: true
 comments: true
