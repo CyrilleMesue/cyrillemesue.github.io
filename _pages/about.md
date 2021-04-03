@@ -14,6 +14,8 @@ toc: true
 
 ### Vision  
 
+### Values   
+
 ### Interest  
 
 ### Hobbies  
