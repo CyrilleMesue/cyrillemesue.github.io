@@ -1,6 +1,6 @@
 ---
 layout: single
-tilte: Certification 
+title: Certificates and Awards
 permalink: /Certification/
 author_profile: true
 comments: true
