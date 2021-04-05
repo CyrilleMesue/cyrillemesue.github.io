@@ -100,7 +100,7 @@ author:
   location         : "Istanbul/Turkey"
   email            : cyrillemesue@gmail.com
   LinkedIn         : "https://www.linkedin.com/in/cyrille-mesue-njume-3a448a184/"
-  Github           :
+  Github           : "https://github.com/CyrilleMesue?tab=repositories"
   
   links:
     - label: "Email"
@@ -111,7 +111,7 @@ author:
       url: "https://www.linkedin.com/in/cyrille-mesue-njume-3a448a184/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/CyrilleMesue?tab=repositories"
       
     #- label: "Twitter"
      # icon: "fab fa-fw fa-twitter-square"
