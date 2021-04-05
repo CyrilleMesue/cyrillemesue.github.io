@@ -5,6 +5,7 @@ permalink: /Certification/
 author_profile: true
 comments: true
 toc: true
+breadcrumbs: true
 ---  
 Throughtout my journey as a student, I encountered rises and falls. They are all part of me and they all teach me a lesson. However, in some cases I had excelled above my peers and I recieved some awards and Certificates. In this page, I want to share with you some of this certifcates.  
 
