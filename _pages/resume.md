@@ -1,10 +1,11 @@
 ---
 layout: single
-title: Resume/
+title: Resume
 permalink: /Resume/
 author_profile: true
 comments: true
 toc: true
+breadcrumbs: true
 ---
 ### Summary  
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
