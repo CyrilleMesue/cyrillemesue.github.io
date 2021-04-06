@@ -68,7 +68,7 @@ GRADES: Biology A, Physics A, Chemistry A, Mathematics A, Further Mathematics A
 * <b>German</b> - Limited Working Proficiency 
 * <b>Akosse</b> - Native
 
-A pdf copy of my resume can be downloaded [here]({{site.url}}/my_docs/resume.pdf)
+You may also download a soft copy of my resume from [here]({{site.url}}/my_docs/resume-Cyrille-Mesue-Njume.pdf)
 
 
 
