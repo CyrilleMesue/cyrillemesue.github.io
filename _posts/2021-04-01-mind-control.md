@@ -11,6 +11,7 @@ toc_icon: "cog"
 excerpt: "This post should display"
 header:
   overlay_image: /images/code-01.jpg
+  overlay_filter: rgba(255, 0, 0, 0.5)
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions : 
     - label: "More Info"
