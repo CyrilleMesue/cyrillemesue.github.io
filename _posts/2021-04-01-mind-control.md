@@ -11,7 +11,7 @@ toc_icon: "cog"
 excerpt: ""
 header:
   overlay_image: /images/code-01.jpg
-  overlay_filter: rgba(255, 0, 0, 0.5)
+  overlay_filter: rgba(155, 150, 160, 0.5)
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions : 
     - label: "More Info"
