@@ -22,12 +22,12 @@ subtitle                 : "Portfolio" # site tagline that appears below site ti
 name                     : "Cyrille NJUME"
 description              : "An amazing website."
 url                      : "https://cyrillemesue.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : #"https://www.cyrillenjume.com" # the subpath of your site, e.g. "/blog"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "CyrilleMesue/cyrillemesue.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   :  "/images/code-01.jpg"    # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              :  true #, false (default)
 words_per_minute         : 200
 comments:
   provider               :  #"facebook"     #"disqus"     # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
