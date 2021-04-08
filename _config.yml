@@ -132,18 +132,18 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://m.facebook.com/home.php"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
+      url: "https://github.com/CyrilleMesue"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:your.name@email.com"
+    - label: "LinkedIn"
+      icon: #"fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/cyrille-mesue-njume-3a448a184/"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
