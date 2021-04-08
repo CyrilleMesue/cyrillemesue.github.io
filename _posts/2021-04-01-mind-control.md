@@ -1,6 +1,6 @@
 --- 
 layout: single
-title: "The Impact of Covid-19 on Your Mental Health And How To Manage Your Mental Health During a Pandemic or any Other Chronic Threat"
+title: "The Impact of Covid-19 on Your Mental Health"
 author_profile: true
 date: 2021-04-01
 comments: true
@@ -8,7 +8,7 @@ show_date: true
 classes: wide
 toc: true
 toc_icon: "cog"
-excerpt: "This post should display"
+excerpt: ""
 header:
   overlay_image: /images/code-01.jpg
   overlay_filter: rgba(255, 0, 0, 0.5)
