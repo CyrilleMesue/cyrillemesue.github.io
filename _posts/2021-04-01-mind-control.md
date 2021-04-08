@@ -8,6 +8,9 @@ show_date: true
 classes: wide
 toc: true
 toc_icon: "cog"
+header:
+  image: /images/code-01.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 The outbreak of Covid-19 has led to the activation of the sympathetic nervous system of almost every individual for a prolonged time and this has resulted in panic and stress one way or another. As an act to level the epidemic curve of the virus, many nations implemented a national lockdown to enhance social distancing. While some nations have fully resumed their economic and social activities, others are still in a mild or severe lockdown period. Below is a summary of guides to help you escape from a panic mode to a stress-free and relaxed mode during a pandemic and lockdown period. The points listed below are adopted from Professor Steve Joordens, a professor in the Department of Psychology at the University of Toronto, through his course “Mind Control: Managing Your Mental Health During COVID-19” on Coursera. Professor Steve is an experienced professor who got me captured through his 3-hour course on Coursera. Professor Steve expatriates well on this topic and I recommend you click the link below and watch his course on Coursera.
 
