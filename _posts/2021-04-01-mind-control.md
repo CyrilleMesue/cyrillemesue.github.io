@@ -1,5 +1,5 @@
 --- 
-layout: single
+layout: posts
 title: "The Impact of Covid-19 on Your Mental Health And How To Manage Your Mental Health During a Pandemic or any Other Chronic Threat"
 author_profile: true
 date: 2021-04-01
