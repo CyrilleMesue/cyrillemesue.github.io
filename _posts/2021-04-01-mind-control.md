@@ -8,6 +8,7 @@ show_date: true
 classes: wide
 toc: true
 toc_icon: "cog"
+excerpt: "This post should display"
 header:
   overlay_image: /images/code-01.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
