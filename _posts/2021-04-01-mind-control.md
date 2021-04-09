@@ -5,7 +5,6 @@ author_profile: true
 date: 2021-04-01
 comments: true
 show_date: true
-classes: wide
 toc: true
 toc_icon: "cog"
 excerpt: ""
