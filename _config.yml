@@ -102,6 +102,7 @@ author:
   LinkedIn         : "https://www.linkedin.com/in/cyrille-mesue-njume-3a448a184/"
   Github           : "https://github.com/CyrilleMesue"
   Facebook         : "https://m.facebook.com/home.php"
+  Website          : "https://cyrillemesue.github.io/"
   
   links:
     - label: "Email"
@@ -115,7 +116,9 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://m.facebook.com/home.php"
-      
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://your-website.com"
     #- label: "Twitter"
      # icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -126,9 +129,7 @@ author:
     #- label: "Instagram"
      # icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    #- label: "Website"
-     # icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+    #
 # Site Footer
 footer:
   links:
