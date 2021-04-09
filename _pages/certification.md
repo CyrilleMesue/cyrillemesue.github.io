@@ -3,12 +3,14 @@ layout: single
 title: Certificates and Awards
 permalink: /Certification/
 author_profile: true
-comments: true
+comments: false
 toc: true
 ---  
-Throughtout my journey as a student, I encountered rises and falls. They are all part of me and they all teach me a lesson. However, in some cases I had excelled above my peers and I recieved some awards and Certificates. In this page, I want to share with you some of this certifcates.  
+Throughout my journey as a student, I encountered rises and falls. In either case, I learnt a lesson.  
 
-To view the certificatesi simply click on the certificate name.  
+There are also times when  I had excelled above my peers and received some awards. On this page, I want to share with you some of these awards.  
+
+To view a certificate, click on it.   
 
 ## Graduation Certificates  
 * [Turkish Language Academy C1 Certificate](https://drive.google.com/file/d/1A6rMVlQ3yT8N4Vk6bZmyabrhLtReBAZh/view?usp=sharing)
