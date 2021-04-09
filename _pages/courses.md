@@ -6,7 +6,7 @@ author_profile: true
 comments: true
 toc: true
 ---
-On this page, I will outline some of the major courses, both undergruates courses and Extracurricular Courses that help shape me into who I am. For the MOOCs, you can click on the course to access it online, though you might be required to pay for some of the courses.  
+I will outline some of my taken courses on this page. They will include undergraduate courses and MOOCs that help shape me into who I am.      You can visit the MOOCs' website by clicking on the MOOC.  
 
 ## Undergraduate Courses  
 ### First Semester Courses(2019/2020 Fall Sememester)  
@@ -38,7 +38,7 @@ On this page, I will outline some of the major courses, both undergruates course
 * Principles of Atatürk and History of Modern Turkey I
 * Biomedical Electronics
 
-I am currently pursuing my fourth semester undergraduate studies. Below are the undergraduate courses I am taking this semster
+I am currently pursuing my fourth-semester undergraduate studies. Below are the undergraduate courses I am taking this semester.  
 ### Fourth Semester Courses(2020/2021 Spring Semester)
 * Fluid Mechanics in Bioengineering
 * Biomaterials
@@ -49,7 +49,9 @@ I am currently pursuing my fourth semester undergraduate studies. Below are the 
 * Bioreactor Design 
 * Stoichiometry
 
-Apart from taking courses from the university, I fell the need to expand my knowledge and took advantage of the internet's large pool of online resources for online. Below are some of the major MOOCs I have taken since the outbreak of Covid-19 and the ones I find to be very valuable. To visit the course platform, just click on the course.
+Apart from taking courses from the university, I felt the need to expand my knowledge and took advantage of the internet's large pool of online resources for learning. Below are some MOOCs I have taken since the outbreak of Covid-19 and the ones I find to be very valuable.  
+
+You can visit the Course website by clicking on the Course.
 
 ## MOOC Courses  
 ### Biology Courses   
@@ -86,20 +88,21 @@ Apart from taking courses from the university, I fell the need to expand my know
   * [Excel/VBA for Creative Problem Solving, Part 1](https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-1?specialization=excel-vba-creative-problem-solving)
  
  
-I visit many online learning platforms for learning, but Coursera is where I stabilize. However, you might have a different taste for a particular platform. I prefer coursera because most of the courses have a video-lecture-to-practice-questions-to-project nature. 
+I visit many online learning platforms for learning, but Coursera is where I stabilize. However, you might have a different taste for a particular platform. I prefer Coursera because most of the courses have a video-lecture-to-practice-questions-to-project nature. 
 
-You might be worrying about affording the course, but some of these couses are free and many of the study platforms out there offer financial aid or a low pay rate premium subscription to students for paid courses.
+You might be worried about affording the course, but some of these courses are free. Also, many study platforms offer financial aid or a low pay rate premium subscription to students for paid courses.  
 
-Below is a link to the main catalog of some of the helpful MOOC platforms I know.
+Below is a link to access the catalogue of some of the helpful MOOC platforms I know.  
+
 ### MOOC Platforms  
 * [Coursera](https://www.coursera.org/)
-* [Edx](https://www.edx.org/)
-* [Udacity](https://www.udacity.com/)
 * [Linkedin Learning](https://learning.linkedin.com/)
 * [Udemy](https://www.udemy.com/)
+* [MIT OpenCourseWare](https://ocw.mit.edu/)
+* [Edx](https://www.edx.org/)
+* [Udacity](https://www.udacity.com/)
 * [CodeAcademy](https://www.codecademy.com/)
 * [Datacamp](https://www.datacamp.com/)
 * [Alison Courses](https://alison.com/)
-* [MIT OpenCourseWare](https://ocw.mit.edu/)
 
-I am also eager to learn more. Knowing that I am interested in Biomedical Technologies and Digital Patholgy, if you have any courses or online resources, please leave it in the comment box below. Also, if you want to take any of the above courses and you want me to provide you with some tips and guidelines. You can as well leave a message in the comment box below.
+I am also eager to learn more. If you have any resources about Biomedical Technologies and Digital Pathology, please feel free to leave some links in the comment section below.  
