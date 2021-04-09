@@ -5,6 +5,7 @@ permalink: /Certification/
 author_profile: true
 comments: false
 toc: true
+toc_icon: cog
 ---  
 Throughout my journey as a student, I encountered rises and falls. In either case, I learnt a lesson.  
 
