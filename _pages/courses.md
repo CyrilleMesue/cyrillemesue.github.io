@@ -5,6 +5,7 @@ permalink: /Courses/
 author_profile: true
 comments: true
 toc: true
+toc_icon: cog
 ---
 I will outline some of my taken courses on this page. They will include undergraduate courses and MOOCs that help shape me into who I am.      You can visit the MOOCs' website by clicking on the MOOC.  
 
