@@ -49,7 +49,7 @@ I am currently pursuing my fourth-semester undergraduate studies. Below are the 
 * Bioreactor Design 
 * Stoichiometry
 
-Apart from taking courses from the university, I felt the need to expand my knowledge and took advantage of the internet's large pool of online resources for learning. Below are some MOOCs I have taken since the outbreak of Covid-19 and the ones I find to be very valuable.  
+_Apart from taking courses from the university, I felt the need to expand my knowledge and took advantage of the internet's large pool of online resources for learning. Below are some MOOCs I have taken since the outbreak of Covid-19 and the ones I find to be very valuable._    
 
 You can visit the Course website by clicking on the Course.
 
