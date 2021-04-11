@@ -7,9 +7,7 @@ comments: false
 toc: true
 toc_icon: cog
 ---  
-Throughout my journey as a student, I encountered rises and falls. In either case, I learnt a lesson.  
-
-There are also times when  I had excelled above my peers and received some awards. On this page, I want to share with you some of these awards.  
+I am a holder of Advanced Level Certificate(High School Diploma) and I currently pursue my undergraduate studies. Below are some of my certificates and awards.  
 
 To view a certificate, click on it.   
 
