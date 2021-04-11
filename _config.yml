@@ -31,7 +31,7 @@ breadcrumbs              :  true #, false (default)
 words_per_minute         : 200
 
 comments:
-  provider               : "utterances"     # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "custom"     # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname            : cyrille-njume
   discourse:
@@ -120,7 +120,7 @@ author:
       url: "https://m.facebook.com/home.php"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://your-website.com"
+      url: "https://cyrillemesue.github.io/"
     #- label: "Twitter"
      # icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
