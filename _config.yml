@@ -31,11 +31,11 @@ breadcrumbs              :  true #, false (default)
 words_per_minute         : 200
 
 comments:
-  provider               : "staticman"    # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "discourse"    # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname            : cyrille-njume
   discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server               : https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963   #, e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
