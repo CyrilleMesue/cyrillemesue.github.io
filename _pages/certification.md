@@ -13,10 +13,8 @@ There are also times when  I had excelled above my peers and received some award
 
 To view a certificate, click on it.   
 
-## Graduation Certificates  
+## Language Certificates  
 * [Turkish Language Academy C1 Certificate](https://drive.google.com/file/d/1A6rMVlQ3yT8N4Vk6bZmyabrhLtReBAZh/view?usp=sharing)
-* [Advanced Level Certificate(High School Diploma)](https://drive.google.com/file/d/1xoFYWiF-bfrCer-jfLzwaBWGhWDA-85p/view?usp=sharing)
-* [Ordinary Level Certificate(Secondary Scool Diploma)](https://drive.google.com/file/d/1105kn1p1XVrREdAWlDUsZSmBYUy3s4X7/view?usp=sharing)
 
 ## Awards  
 * [High School Honours](https://drive.google.com/file/d/1yDzxjThlJoQ7GmcSRhFoZFNDOcAEqxh7/view?usp=sharing)
