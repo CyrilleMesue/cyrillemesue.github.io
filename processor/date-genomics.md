@@ -1,17 +1,50 @@
 
-We now live in a society where many advanced technologies are being produced every year. Some of these adavnced technologies are DNA sequencing machines. These machines take in purified and amplified DNA and produce a sequence of ACGT characters.  
+We now live in a society where many advanced technologies are being produced every year. Some of these adavnced technologies are DNA sequencing machines. These machines take in purified and amplified DNA and produce a sequence of ACGT characters. Each character in the sequence represents a specific nucleotide. So, what exactly do we do with these DNA sequences? We need to extract important information such as the number genes in a specific location, the replication origin, the type of genes and so on. 
 
-Each character in the sequence represents a specific nucleotide. So, what exactly do we do with these DNA sequences? We need to extract important information such as the number genes in a specific location, the replication origin, the type of genes and so on. 
+If you are new in python and you wanna get started with some simple biological application, then this post is for. The code that will be writen on this page are not meant to accurate but rather for ellaboration purposes.
 
 In this article, I will show you how you can use simple python codes to find all genes from a DNA sequence, but first, I will like to define some useful terminologies.
 
 1. Nucleotide: Nucleotides are the building blocks of DNA just like amino acids are the building blocks of proteins. There are only nucleotides that make up DNA: Adenine(A), Guanine(G), Thymine(T) and Cytosine(C).
 4. Codon: A codon is a sequence of three nucleotides e.g AAT, GCC, ATG, etc. Each code codes for a specific amino acid, although one amino acid can be coded for by more than one codon.
 5. Gene: A gene is the functional unit of DNA that can code for a protein. We will see more about in this article.
-6. Start codon: A start codon is the first codon found in a gene. There is only one universal start codon: ATG and it codes for the amino acid
-7. Stop codon: 
-8. genome:
-9. double strand:
-10. single: strand: 
-11. Complementary base pairing:
+6. Start codon: A start codon is the first codon found in a gene. There is only one universal start codon: ATG and it codes for the amino acid Methionine.
+7. Stop codon: A stop codon is the last codon in a gene. There are three stop codons so far in mammals. They include; TAA, TAG and TGA.
+9. double stranded DNA: Eukaryotic DNA occurs in double stranded form, meaning, each DNA molecule is made up of two strands of nucleotides that bond through hidrogens bonds. 
+11. Complementary base pairing: The hydrogens bonds formed between strands of DNA are specific between base-pairs. This is called complementary base pairing. Example, C and G pair with each other while A and T pair with each other. 
+
+Haven defined some useful terms, we will dive into the agenda for today. 
+
+We have defined a gene above in simple biological terms. However, for computational purposes, we need to use a different definition:
+
+_A gene is a sequence of codons starting with a start codon and ending with a stop codon_.
+
+From the above definition, any program we write to find genes is DNA must meet the following criteria
+1. have a multiple of three length. Since all codons are made up of 3 nucleotides and genes are mage of codons, then genes are made of triplets of nucleotide.
+2. A gene length should be greater than 6. This just theory. Most genes are hundreds of nucleotides long.
+3. The first codon must be ATG
+4. Last codon must be either TAA or TAG or TGA.
+
+That being said, we are gonna need to write functions that carryout the following task
+* check condition 1. We can name the function multiOfThree(meaning multiple of three)
+* check condition 2. Condition can be considered in the stopCodon function
+* Check condition 3. We will define a function to find the start codon(ATG). Obviously in a case where no start codon is found, we can safely assume there is no gene.We may name our function findStartCodon.
+* Check codition 4. Will define a function to find a stop function given that any start function was found. Since we are looking for a gene, the search for a stop codon must been after the location of a start codon.
+
+Given the above criteria, we can define a function to find a gene anywhere along a DNA sequence. We can then call this function is a bigger function to findall all the genes in the DNA sequence.
+
+If you are familiar with python programming language, I will advise you to write the code on your own your own since the problem is already defined. Our codes may also be different but do not forgot to download the dataset and compare results.
+
+```python
+def MultOfThree(sequence):
+    # This function takes in a sequence(string or list or tuple) and finds if the length of the sequence is a multiple of three.
+    # The function returns true if the length of the sequence is a multple of 3 and returns false otherwise.
+    result = false
+    length = len(sequence)
+    if length % 3 == 0:
+        result = true
+    return result
+```  
+
+
 
