@@ -4,14 +4,14 @@ main:
     url: /
   - title: "About"
     url: /About/
-  - title: "Resume"
-    url: /Resume/
   - title: "Portfolio"
     url: /Portfolio/
   - title: "Certification"
     url: /Certification/
   - title: "Courses"
     url: /Courses/
+  - title: "Resume"
+    url: /Resume/
   - title: "Blog"
     url: /Blog/
 
