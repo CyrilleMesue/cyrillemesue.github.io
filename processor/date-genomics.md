@@ -27,7 +27,7 @@ From the above definition, any program we write to find genes is DNA must meet t
 
 That being said, we are gonna need to write functions that carryout the following task
 * check condition 1. We can name the function multiOfThree(meaning multiple of three)
-* check condition 2. Condition can be considered in the stopCodon function
+* check condition 2. Condition can be considered in findGene function
 * Check condition 3. We will define a function to find the start codon(ATG). Obviously in a case where no start codon is found, we can safely assume there is no gene.We may name our function findStartCodon.
 * Check codition 4. Will define a function to find a stop function given that any start function was found. Since we are looking for a gene, the search for a stop codon must been after the location of a start codon.
 
@@ -45,6 +45,72 @@ def MultOfThree(sequence):
         result = true
     return result
 ```  
+The code snippet above helps to check that condition 1 above is valid for a gene. N
+
+Next we will define a function to find a start codon as shown below.
+
+```python
+def findStartCodon(dna):
+    dna = dna.upper()
+    startCodon = "ATG"
+    dna_length = len(dna)
+    startIndex = None
+    for i in range(0,dna_length-3):
+        if dna[i:i+3] == startCodon:
+            startIndex = i
+    return startIndex
+    
+```
+
+Next, we will implement the findStop codon function given that a start codon was found. Remember, a gene must have a start codon. Therefore, there will be no need to find the stopcodon given no start codon. This also means that in case a start codon was found, we can start searching for a stopcodon after the start codon. 
+
+We will start out search afer the startcodon in order not to waste time. Hence, our function will need two paramters: The DNA string, and the index of the start codon returned by findStartCodon.
 
 
 
+```python
+def findStopCodon(dna, startIndex):
+    dna = dna.upper()
+    dna_length = len(dna)
+    stopCodons = ["TAA","TAG","TGA"]
+    stopIndex = None
+    
+    for i in range(startIndex + 2,dna_length-3):
+        if dna[i:i+3] == stopCodons[0] or dna[i:i+3] == stopCodons[1] or dna[i:i+3] == stopCodons[2]:
+            stopIndex = i
+            
+    return stopIndex
+    
+```
+
+Finding a start and a stop codon cannot guarranttee the presence of a gence. The sequnce of characters starting with a start codon and ending with a stop codon must meet up with codition 02. 
+
+```python
+def findGene(dna):
+    dna_length = len(dna)
+    gene = []
+    startIndex = findStartCodon(dna)
+    if startIndex == None:
+        gene = []
+    else:
+        stopIndex = findStopCodon(dna,startIndex)
+        if stopIndex == None:
+            gene = []
+        else:
+            while (stopIndex - startIndex) % 3 != 0:
+                stopIndex = findStopCodon(dna, stopIndex+1)
+                if stopIndex > dna_length - 3 or if stopIndex == None:
+                    break
+        
+    
+    
+    
+    
+    
+    
+What findGene does is that it finds the first gene in a dna string, if any. But in real applications, dna often contain more than one gene. In fact, many genes and we are often interested in finding all the genes. To achieve, we will modify find gene to find genes from any location with the a dna string, then we will defind a major functio that calls findGene to find all the genes in dna.
+
+
+
+
+The code developed on this page, is based on concepts I learnt in a Java Programming course by Duke University on Coursera. However, I explain the code in python because ı think that python programming language is more applicable to datascience than java.
