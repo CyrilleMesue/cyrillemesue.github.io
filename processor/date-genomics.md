@@ -69,16 +69,17 @@ We will start out search afer the startcodon in order not to waste time. Hence, 
 
 
 ```python
-def findStopCodon(dna, startIndex):
+def findStopCodon(dna, startIndex,stopCodon):
     dna = dna.upper()
     dna_length = len(dna)
-    stopCodons = ["TAA","TAG","TGA"]
     stopIndex = None
     
     for i in range(startIndex + 2,dna_length-3):
-        if dna[i:i+3] == stopCodons[0] or dna[i:i+3] == stopCodons[1] or dna[i:i+3] == stopCodons[2]:
-            stopIndex = i
-            
+        if dna[i:i+3] == stopCodon:
+            if (stopIndex - startIndex) % 3 == 0:
+                stopIndex = i
+                break
+                
     return stopIndex
     
 ```
@@ -87,25 +88,29 @@ Finding a start and a stop codon cannot guarranttee the presence of a gence. The
 
 ```python
 def findGene(dna):
-    dna_length = len(dna)
-    gene = []
+    dna.upper()
     startIndex = findStartCodon(dna)
+  
     if startIndex == None:
-        gene = []
+        return "No gene"
+    
+    TAA_Index = findStopCodon(dna, startIndex, "TAA")
+    TAG_Index = findStopCodon(dna, startIndex, "TAG")
+    TGA_ındex = findStopCodon(dna, startIndex, "TGA")
+    
+    if TAA_Index == TGA_Index == TAG_Index:
+        stopIndex = None
     else:
-        stopIndex = findStopCodon(dna,startIndex)
-        if stopIndex == None:
-            gene = []
-        else:
-            while (stopIndex - startIndex) % 3 != 0:
-                stopIndex = findStopCodon(dna, stopIndex+1)
-                if stopIndex > dna_length - 3 or if stopIndex == None:
-                    break
+        stopIndex = min(TAA_Index, TAG_Index, TGA_Index)
         
-    
-    
-    
-    
+    if stopIndex == None:
+        return "No gene"
+    else:
+        gene = dna[start_Index : stopIndex+3]
+   
+    return gene
+        
+  ```  
     
     
 What findGene does is that it finds the first gene in a dna string, if any. But in real applications, dna often contain more than one gene. In fact, many genes and we are often interested in finding all the genes. To achieve, we will modify find gene to find genes from any location with the a dna string, then we will defind a major functio that calls findGene to find all the genes in dna.
@@ -115,203 +120,37 @@ What findGene does is that it finds the first gene in a dna string, if any. But 
 
 The code developed on this page, is based on concepts I learnt in a Java Programming course by Duke University on Coursera. However, I explain the code in python because ı think that python programming language is more applicable to datascience than java.
 
-public String findSimpleGene(String dna){
-        String StartCodon = "ATG";
-        String EndCodon = "TAA";
-        int StartIndex = dna.indexOf(StartCodon);
-        if (StartIndex == -1){
-            return "";
-        }
-        int EndIndex = dna.indexOf(EndCodon,StartIndex+3);
-        if (EndIndex == -1){
-            return "";
-        }
-        String result = dna.substring(StartIndex,EndIndex+3);
-        if (result.length()%3 == 0){
-            result = result;
-        }
-        else{
-            result = "";
-        }
-        return result;
-    }
+
+```python
+def findAllGenes(dna):
+    dna_length = len(dna)
+    current_start_Index = 0
+    genes = []
+    gene_locations = []
     
-    
-    public String findSimpleGene(String dna,String StartCodon,String EndCodon){
-        
-        dna.toUpperCase();
-        int StartIndex = dna.indexOf(StartCodon);
-        if (StartIndex == -1){
-            return "";
-        }
-        int EndIndex = dna.indexOf(EndCodon,StartIndex+3);
-        if (EndIndex == -1){
-            return "";
-        }
-        String result = dna.substring(StartIndex,EndIndex+3);
-        if (result.length()%3 == 0){
-            result = result;
-        }
-        else{
-            result = "";
-        }
-        return result;
-    }
-    
-    public int findStopCodon(String dna,String StopCodon, int StartIndex){
-        dna = dna.replaceAll("\\r|\\n", "");
-        int Length = dna.length();
-        if (dna.contains(StopCodon)){
-            int starti = StartIndex;
-            int StopIndex = dna.indexOf(StopCodon,starti);
-            while(starti != -1){
-                if (StopIndex ==-1){
-                    break;
-                }
-                
-                if ((StopIndex-StartIndex) % 3 == 0){
-                    starti = -1;
-                    return StopIndex;                    
-                }
-                starti = StopIndex +3;
-                StopIndex = dna.indexOf(StopCodon,starti);
-                
-            }
-        }
-        return -1;
-    }
-    
-    public String findGene(String dna,int Startidx ){
-        dna = dna.toUpperCase();
-        int startIndex = dna.indexOf("ATG",Startidx);
-                
-        if (startIndex == -1){
-            return "";
-        }
-        int TAAIndex = findStopCodon(dna,"TAA",startIndex);
-        int TAGIndex = findStopCodon(dna,"TAG",startIndex);
-        int TGAIndex = findStopCodon(dna,"TGA",startIndex);
-        
-        int minIndex = 0;
-        if (TAAIndex ==-1 || (TGAIndex != -1 && TGAIndex < TAAIndex)){
-            minIndex = TGAIndex;
-        }
-        else{
-            minIndex = TAAIndex;
-        }
-        
-        if (minIndex ==-1 || (TAGIndex != -1 && TAGIndex < minIndex)){
-            minIndex = TAGIndex;
-        }
-        
-        if (minIndex ==-1){
-            return "";
-        }
-           
-        return dna.substring(startIndex,minIndex+3);
-    }
-    
-    
-    
-    public void testFindGene(){
-        String dna1 = "CTAGTGAFGAFTHHAGFCGA";
-        String gene1 = findGene(dna1,0);
-        System.out.println("DNA: " + dna1);
-        System.out.println("Genes found :  " + gene1);
-        
-        String dna2 = "CGTGTGCCATGCCAHTCTGAGAG";
-        String gene2 = findGene(dna2,0);
-        System.out.println("DNA: " + dna2);
-        System.out.println("Genes found :  " + gene2);
-        
-        String dna3 = "TGACCTTGATAAGSATA";
-        String gene3 = findGene(dna3,0);
-        System.out.println("DNA: " + dna3);
-        System.out.println("Genes found :  " + gene3);
-        
-        String dna4 = "ATGCCTTACTGG";
-        String gene4 = findGene(dna4,0);
-        System.out.println("DNA: " + dna4);
-        System.out.println("Genes found :  " + gene4);
-        
-        String dna5 = "AGDAKHJDGAGGDKKATG";
-        String gene5 = findGene(dna5,0);
-        System.out.println("DNA: " + dna5);
-        System.out.println("Genes found :  " + gene5);
-    }
-    
-    
-    public int findStopCodon(String dna,String StopCodon, int StartIndex){
-            int Length = dna.length();
-            if (dna.contains(StopCodon)){
-                int StopIndex = dna.indexOf(StopCodon,StartIndex);
-                if ((StopIndex-StartIndex) % 3 == 0){
-                    return StopIndex;
-                }
-            }
-            return -1;
-    }
-    
-    public String findGene(String dna,int StartIndex ){
+    for ii in range(dna_length-5):
+        current_gene = findGene(dna, startIndex)
+        if current_gene != "No gene":
+            genes.append(current_gene)
+            gene_locations.append(i)
             
-            int startIndex = dna.indexOf("ATG",StartIndex);
-                            
-            if (startIndex == -1){
-                return "";
-                }
-            int TAAIndex = findStopCodon(dna,"TAA",startIndex);
-            int TAGIndex = findStopCodon(dna,"TAG",startIndex);
-            int TGAIndex = findStopCodon(dna,"TGA",startIndex);
-                
-            int minIndex = 0;           
-            if (TAAIndex ==-1 || (TGAIndex != -1 && TGAIndex < TAAIndex)){
-                minIndex = TGAIndex;
-                }
-            else{
-                minIndex = TAAIndex;
-                }
-            if (minIndex ==-1 || (TAGIndex != -1 && TAGIndex < minIndex)){
-                minIndex = TAGIndex;
-                }
-            if (minIndex ==-1){
-                return "";
-                }
-                
-                        
-                
-            return dna.substring(startIndex,minIndex+3);
-    }
-    
-    public int countGenes(String dna){
-        int count = 0;
-        int currindex = 0;
-        int L = dna.length();
+    result = (gene_locations, genes)
+```
+
+
+```python
+def countGenes(dna):
+        gene_indices, genes = findAllGenes(dna)
+        count = len(genes)
+        
+        return count
         
         
-        if (dna.contains("ATG")){
-            currindex = dna.indexOf("ATG");
-                
-            while (true){
-                if (currindex ==-1){
-                    break;
-                }
-                
-                if (currindex > L){
-                    break;
-                }
-                String gene = findGene(dna,currindex);
-                
-                if(gene.isEmpty() == true){
-                    break;
-                }
-                count = count + 1;
-                currindex = dna.indexOf("ATG",currindex + gene.length());
-            }
-        } 
-        
-        return count;
-    }
-    
+```
+
+
+
+
     
     
 
