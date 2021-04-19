@@ -114,3 +114,207 @@ What findGene does is that it finds the first gene in a dna string, if any. But 
 
 
 The code developed on this page, is based on concepts I learnt in a Java Programming course by Duke University on Coursera. However, I explain the code in python because ı think that python programming language is more applicable to datascience than java.
+
+public String findSimpleGene(String dna){
+        String StartCodon = "ATG";
+        String EndCodon = "TAA";
+        int StartIndex = dna.indexOf(StartCodon);
+        if (StartIndex == -1){
+            return "";
+        }
+        int EndIndex = dna.indexOf(EndCodon,StartIndex+3);
+        if (EndIndex == -1){
+            return "";
+        }
+        String result = dna.substring(StartIndex,EndIndex+3);
+        if (result.length()%3 == 0){
+            result = result;
+        }
+        else{
+            result = "";
+        }
+        return result;
+    }
+    
+    
+    public String findSimpleGene(String dna,String StartCodon,String EndCodon){
+        
+        dna.toUpperCase();
+        int StartIndex = dna.indexOf(StartCodon);
+        if (StartIndex == -1){
+            return "";
+        }
+        int EndIndex = dna.indexOf(EndCodon,StartIndex+3);
+        if (EndIndex == -1){
+            return "";
+        }
+        String result = dna.substring(StartIndex,EndIndex+3);
+        if (result.length()%3 == 0){
+            result = result;
+        }
+        else{
+            result = "";
+        }
+        return result;
+    }
+    
+    public int findStopCodon(String dna,String StopCodon, int StartIndex){
+        dna = dna.replaceAll("\\r|\\n", "");
+        int Length = dna.length();
+        if (dna.contains(StopCodon)){
+            int starti = StartIndex;
+            int StopIndex = dna.indexOf(StopCodon,starti);
+            while(starti != -1){
+                if (StopIndex ==-1){
+                    break;
+                }
+                
+                if ((StopIndex-StartIndex) % 3 == 0){
+                    starti = -1;
+                    return StopIndex;                    
+                }
+                starti = StopIndex +3;
+                StopIndex = dna.indexOf(StopCodon,starti);
+                
+            }
+        }
+        return -1;
+    }
+    
+    public String findGene(String dna,int Startidx ){
+        dna = dna.toUpperCase();
+        int startIndex = dna.indexOf("ATG",Startidx);
+                
+        if (startIndex == -1){
+            return "";
+        }
+        int TAAIndex = findStopCodon(dna,"TAA",startIndex);
+        int TAGIndex = findStopCodon(dna,"TAG",startIndex);
+        int TGAIndex = findStopCodon(dna,"TGA",startIndex);
+        
+        int minIndex = 0;
+        if (TAAIndex ==-1 || (TGAIndex != -1 && TGAIndex < TAAIndex)){
+            minIndex = TGAIndex;
+        }
+        else{
+            minIndex = TAAIndex;
+        }
+        
+        if (minIndex ==-1 || (TAGIndex != -1 && TAGIndex < minIndex)){
+            minIndex = TAGIndex;
+        }
+        
+        if (minIndex ==-1){
+            return "";
+        }
+           
+        return dna.substring(startIndex,minIndex+3);
+    }
+    
+    
+    
+    public void testFindGene(){
+        String dna1 = "CTAGTGAFGAFTHHAGFCGA";
+        String gene1 = findGene(dna1,0);
+        System.out.println("DNA: " + dna1);
+        System.out.println("Genes found :  " + gene1);
+        
+        String dna2 = "CGTGTGCCATGCCAHTCTGAGAG";
+        String gene2 = findGene(dna2,0);
+        System.out.println("DNA: " + dna2);
+        System.out.println("Genes found :  " + gene2);
+        
+        String dna3 = "TGACCTTGATAAGSATA";
+        String gene3 = findGene(dna3,0);
+        System.out.println("DNA: " + dna3);
+        System.out.println("Genes found :  " + gene3);
+        
+        String dna4 = "ATGCCTTACTGG";
+        String gene4 = findGene(dna4,0);
+        System.out.println("DNA: " + dna4);
+        System.out.println("Genes found :  " + gene4);
+        
+        String dna5 = "AGDAKHJDGAGGDKKATG";
+        String gene5 = findGene(dna5,0);
+        System.out.println("DNA: " + dna5);
+        System.out.println("Genes found :  " + gene5);
+    }
+    
+    
+    public int findStopCodon(String dna,String StopCodon, int StartIndex){
+            int Length = dna.length();
+            if (dna.contains(StopCodon)){
+                int StopIndex = dna.indexOf(StopCodon,StartIndex);
+                if ((StopIndex-StartIndex) % 3 == 0){
+                    return StopIndex;
+                }
+            }
+            return -1;
+    }
+    
+    public String findGene(String dna,int StartIndex ){
+            
+            int startIndex = dna.indexOf("ATG",StartIndex);
+                            
+            if (startIndex == -1){
+                return "";
+                }
+            int TAAIndex = findStopCodon(dna,"TAA",startIndex);
+            int TAGIndex = findStopCodon(dna,"TAG",startIndex);
+            int TGAIndex = findStopCodon(dna,"TGA",startIndex);
+                
+            int minIndex = 0;           
+            if (TAAIndex ==-1 || (TGAIndex != -1 && TGAIndex < TAAIndex)){
+                minIndex = TGAIndex;
+                }
+            else{
+                minIndex = TAAIndex;
+                }
+            if (minIndex ==-1 || (TAGIndex != -1 && TAGIndex < minIndex)){
+                minIndex = TAGIndex;
+                }
+            if (minIndex ==-1){
+                return "";
+                }
+                
+                        
+                
+            return dna.substring(startIndex,minIndex+3);
+    }
+    
+    public int countGenes(String dna){
+        int count = 0;
+        int currindex = 0;
+        int L = dna.length();
+        
+        
+        if (dna.contains("ATG")){
+            currindex = dna.indexOf("ATG");
+                
+            while (true){
+                if (currindex ==-1){
+                    break;
+                }
+                
+                if (currindex > L){
+                    break;
+                }
+                String gene = findGene(dna,currindex);
+                
+                if(gene.isEmpty() == true){
+                    break;
+                }
+                count = count + 1;
+                currindex = dna.indexOf("ATG",currindex + gene.length());
+            }
+        } 
+        
+        return count;
+    }
+    
+    
+    
+
+
+
+
