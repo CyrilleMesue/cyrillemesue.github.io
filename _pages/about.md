@@ -23,11 +23,10 @@ My mission for is site is to:
 * Make connections with great developers and become one of them.
 * Bring Technology Innovation to the heart of the underdeveloped world.   
   
-### Values   
-* I believe in respect for everyone no matter the gender, age, race or religion.
-* I believe in talent, but no talented person is above anyone.
-* I believe in hard work. Hard work can beat undisciplined talent. 
-* I believe in teamwork.  
+### Values and Beliefs   
+* We can all tap into infinite intelligence that God has installed in us. However, we need to first believe.
+* I believe in respect and the love of God for everyone no matter the gender, age, race or religion. 
+* I believe in teamwork. Sharing ideas can indeed lead to the most beautiful and impactful innovations ever.  
 
 > “If you want to go fast, go alone. If you want to go far, go together.”  African Proverb
 
