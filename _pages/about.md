@@ -7,7 +7,7 @@ comments: true
 toc: true
 toc_icon: cog
 ---
-I am a self-disciplined Bioengineering student. I study at Yildiz Technical University. As a bioengineer, I am interested in Advanced medical technology and AI and their application for medical Diagnosis, Prognosis and Companion Diagnosis.    
+I am a self-disciplined Bioengineering student. I study at Yildiz Technical University. I am interested in Advanced medical technology and AI and their application for medical Diagnosis, Prognosis and Companion Diagnosis.    
   
 ### Mission  
 My mission for is site is to:  
