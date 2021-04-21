@@ -15,12 +15,13 @@ My mission for is site is to:
 * make connections with intellects who have a common interest.
 * build a team of individuals who are eager to build a better world.
 * create an opportunity for learners, including myself, to continuously acquire knowledge.
-* Raise awareness of various technological advances for medical applications.  
+* Raise awareness of various technological advances for medical applications.
+* Showcase my skills and Achievements.    
 
 ### Vision  
-* I see myself as part of an evolution in medical technologies(including AI) that will result in accurate medical diagnostics, prognostics and companion diagnostics. 
+* Be part of an evolution in medical technologies(including AI) that will result in accurate medical diagnostics, prognostics and companion diagnostics, and advancements in biomedical research. 
 * Make connections with great developers and become one of them.
-* Bring Technology Innovation to the heart of the underdeveloped world.
+* Bring Technology Innovation to the heart of the underdeveloped world.   
   
 ### Values   
 * I believe in respect for everyone no matter the gender, age, race or religion.
