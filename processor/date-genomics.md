@@ -1,5 +1,16 @@
 
+# Using Python to find all genes in DNA including nested genes.
+
+
 We now live in a society where many advanced technologies are being produced every year. Some of these adavnced technologies are DNA sequencing machines. These machines take in purified and amplified DNA and produce a sequence of ACGT characters. Each character in the sequence represents a specific nucleotide. So, what exactly do we do with these DNA sequences? We need to extract important information such as the number genes in a specific location, the replication origin, the type of genes and so on. 
+
+In this post, I will show you a step by step approach on how to find all genes, including nested genes, in a DNA string. We will define a python function that searches through a DNA string for a gene, pinpoint the location of the gene in the DNA string and returns information such as the number of genes, the longest gene, the shortest gene and so on.
+
+First, we will start by defining some molecular biology terminologies. Then, identify some functions. Finally, we will build up our function in a step by step manner. 
+
+It should be noted that I am not aiming to build a very effective function, but rather to build something that is easy to understand. 
+
+The code are documented, but if you want to practice along, you should be familiar with python syntax including data structures like list, strings and functions.
 
 If you are new in python and you wanna get started with some simple biological application, then this post is for. The code that will be writen on this page are not meant to accurate but rather for ellaboration purposes.
 
