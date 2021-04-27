@@ -22,6 +22,7 @@ So, let's get started.
 5. **Stop codon:** A stop codon is the last codon in a gene. There are three stop codons so far in mammals. They include; TAA, TAG and TGA.
 6. **Double stranded DNA:** Eukaryotic DNA occurs in double stranded form, meaning, each DNA molecule is made up of two strands of nucleotides that bond through hidrogens bonds.
 7. **Complementary base pairing:** The hydrogens bonds formed between strands of DNA are specific between base-pairs. This is called complementary base pairing. Example, C and G pair with each other while A and T pair with each other. 
+8. **Nested Genes:** These are genes found within other genes. Similar to how DNA contains genes, some genes may contain other genes as well.
 
 We have defined a gene above in simple biological terms. However, for computational purposes, we need to use a different definition:
 _A gene is a sequence of codons starting with a start codon and ending with a stop codon_.
