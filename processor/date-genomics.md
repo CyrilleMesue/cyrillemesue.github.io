@@ -41,15 +41,15 @@ That being said, we are gonna need to write functions that carryout the followin
 Given the above criteria, we will build our function according to the following steps:  
 
 ### STEPS
-**Step 1 :** Build a function called findStartCodon that takes in a DNA string as parameter and returns the location( or index) of a start codon. If no start codon is found, it returns None.
-**Step 2 :** Build a function called findStopCodon that takes in a DNA string and an integer as parameter(the start index), and returns the position of a stop codon. If no stop codon is found, it returns None.
-**Step 3 :** Modify the findStopCodon function to consider only stop codons that are multiples of three away from the start codon.
-**Step 4 :** Modify the findStopCodon function again, to take in as parameters; DNA string, startIndex and Stop codon( TAG or TAA ot TGA) and search for all the three types of stop codons. This new function will return a list of stop indices.
-**Step 5 :** Modify the findStopCodon function finally, to consider the minimum stop codon incase more than one stop codon is found. 
-**Step 6 :** Build a function to find a gene called findGene that takes in as parameters; a DNA string, the start codon and the stop codon.
-**Step 7 :** Build a function to find all genes in a DNA string by making use of the functions previously defined. 
-**Step 8 :** Define a function called DNAStatistics that that takes in a DNA string as parameter and finds how many genes are in DNA, the longest gene and length, the shortes gene and length, nested genes.
-**Step 9 :** Run the DNAstatistics function on Escherichia coli genome.
+**Step 1 :** Build a function called findStartCodon that takes in a DNA string as parameter and returns the location( or index) of a start codon. If no start codon is found, it returns None.  
+**Step 2 :** Build a function called findStopCodon that takes in a DNA string and an integer as parameter(the start index), and returns the position of a stop codon. If no stop codon is found, it returns None.  
+**Step 3 :** Modify the findStopCodon function to consider only stop codons that are multiples of three away from the start codon.  
+**Step 4 :** Modify the findStopCodon function again, to take in as parameters; DNA string, startIndex and Stop codon( TAG or TAA ot TGA) and search for all the three types of stop codons. This new function will return a list of stop indices.  
+**Step 5 :** Modify the findStopCodon function finally, to consider the minimum stop codon incase more than one stop codon is found.   
+**Step 6 :** Build a function to find a gene called findGene that takes in as parameters; a DNA string, the start codon and the stop codon.  
+**Step 7 :** Build a function to find all genes in a DNA string by making use of the functions previously defined.   
+**Step 8 :** Define a function called DNAStatistics that that takes in a DNA string as parameter and finds how many genes are in DNA, the longest gene and length, the shortes gene and length, nested genes.  
+**Step 9 :** Run the DNAstatistics function on Escherichia coli genome.  
 
 #### Step 1
 
