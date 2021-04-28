@@ -41,15 +41,15 @@ That being said, we are gonna need to write functions that carryout the followin
 Given the above criteria, we will build our function according to the following steps:  
 
 ### STEPS
-**Step 1 :** Build a function called findStartCodon that takes in a DNA string as parameter and returns the location( or index) of a start codon. If no start codon is found, it returns None.    
+**Step 1 :** Build a function called findStartIndex that takes in a DNA string as parameter and returns the location( or index) of a start codon. If no start codon is found, it returns None.    
 
-**Step 2 :** Build a function called findStopCodon that takes in a DNA string and an integer as parameter(the start index), and returns the position of a stop codon. If no stop codon is found, it returns None. 
+**Step 2 :** Build a function called findStopIndex that takes in a DNA string and an integer as parameter(the start index) and a stop codoon, and returns the position of a stop codon. If no stop codon is found, it returns None. 
 
-**Step 3 :** Modify the findStopCodon function to consider only stop codons that are multiples of three away from the start codon.  
+**Step 3 :** Modify the findStopIndex function to consider only stop codons that are multiples of three away from the start codon.  
 
-**Step 4 :** Modify the findStopCodon function again, to take in as parameters; DNA string, startIndex and Stop codon( TAG or TAA ot TGA) and search for all the three types of stop codons. This new function will return a list of stop indices.  
+**Step 4 :** Build a new function called find_Stop_Index which takes in as parameters, a DNA string and a start index. This function will make use of findStopIndex to search for all the three types of stop codons. This new function will return a list of stop indices.  
 
-**Step 5 :** Modify the findStopCodon function finally, to consider the minimum stop codon incase more than one stop codon is found.   
+**Step 5 :** Modify the find_Stop_Index function, to consider the minimum stop index incase more than one stop codon is found. If no stop index is found, this returns None.  
 
 **Step 6 :** Build a function to find a gene called findGene that takes in as parameters; a DNA string, the start codon and the stop codon.  
 
@@ -60,7 +60,7 @@ Given the above criteria, we will build our function according to the following 
 **Step 9 :** Run the DNAstatistics function on Escherichia coli genome.  
 
 
-#### Step 1
+#### Step 1: findStartCodon
 
 ```python
 def findStartCodon(dna):
@@ -76,11 +76,9 @@ def findStartCodon(dna):
 ```
 
 
-Next, we will implement the findStop codon function given that a start codon was found. Remember, a gene must have a start codon. Therefore, there will be no need to find the stopcodon given no start codon. This also means that in case a start codon was found, we can start searching for a stopcodon after the start codon. 
+Next, we will implement the findStop codon function given that a start codon was found. Remember, a gene must have a start codon. Therefore, there will be no need to find the stopcodon given no start codon. This also means that in case a start codon was found, we can start searching for a stopcodon after the start codon location.  
 
-We will start out search afer the startcodon in order not to waste time. Hence, our function will need two paramters: The DNA string, and the index of the start codon returned by findStartCodon.
-
-
+#### Step 2: findStopCodon version 1
 
 ```python
 def findStopCodon(dna, startIndex,stopCodon):
@@ -88,7 +86,26 @@ def findStopCodon(dna, startIndex,stopCodon):
     dna_length = len(dna)
     stopIndex = None
     
-    for i in range(startIndex + 2,dna_length-3):
+    for i in range(startIndex + 3,dna_length-3):
+        if dna[i:i+3] == stopCodon:
+            stopIndex = i
+            break
+                
+    return stopIndex
+    
+```
+
+Finding a start and a stop codon cannot guarranttee the presence of a gene. The sequnce of characters starting with a start codon and ending with a stop codon must be a multiple of three. We will now modify our function to satisfy this condition.   
+
+#### Step 3: findStopCodon version 2  
+
+```python
+def findStopCodon(dna, startIndex,stopCodon):
+    dna = dna.upper()
+    dna_length = len(dna)
+    stopIndex = None
+    
+    for i in range(startIndex + 3,dna_length-3):
         if dna[i:i+3] == stopCodon:
             if (stopIndex - startIndex) % 3 == 0:
                 stopIndex = i
@@ -98,7 +115,46 @@ def findStopCodon(dna, startIndex,stopCodon):
     
 ```
 
-Finding a start and a stop codon cannot guarranttee the presence of a gence. The sequnce of characters starting with a start codon and ending with a stop codon must meet up with codition 02. 
+#### Step 4: find_Stop_Index version 1
+
+```python
+def find_Stop_Index(DNA, startIndex):
+    stopCodons = ["TAA", "TAG", "TGA"]
+    stopIndices = []
+    
+    for stopCodon in stopCodons:
+        stopIndex = findStopIndex(DNA, startIndex, stopCodon)
+        stopIndices.append(stopIndex)
+    
+    return stopIndices
+    
+```
+
+The function find_stop_Indices returns a list of stop indices. But we only need one stop index at a time. And is the index that occurs before the others. If no index was found the stopIndices would be a list of Nones. Then we can just select one None.
+
+#### Step 5: find_Stop_Index version 2  
+
+```python
+def find_Stop_Index(DNA, startIndex):
+    stopCodons = ["TAA", "TAG", "TGA"]
+    stopIndices = []
+    
+    for stopCodon in stopCodons:
+        stopIndex = findStopIndex(DNA, startIndex, stopCodon)
+        stopIndices.append(stopIndex)
+    
+    FinalStopIndex = None
+    for stopIndex in stopIndices:
+        if stopIndex == None:
+            StopIndices.remove(stopIndex)
+    if stopIndices != []:
+        FinalStopIndex = min(stopIndices)
+        
+    return FinalStopIndex
+    
+```
+
+#### Step 6: findGene 
 
 ```python
 def findGene(dna):
@@ -107,32 +163,20 @@ def findGene(dna):
   
     if startIndex == None:
         return "No gene"
-    
-    TAA_Index = findStopCodon(dna, startIndex, "TAA")
-    TAG_Index = findStopCodon(dna, startIndex, "TAG")
-    TGA_ındex = findStopCodon(dna, startIndex, "TGA")
-    
-    if TAA_Index == TGA_Index == TAG_Index:
-        stopIndex = None
-    else:
-        stopIndex = min(TAA_Index, TAG_Index, TGA_Index)
         
+    stopCodon = find_Stop_Codon(DNA,startIndex)    
     if stopIndex == None:
         return "No gene"
     else:
         gene = dna[start_Index : stopIndex+3]
    
     return gene
-        
-  ```  
     
-    
-What findGene does is that it finds the first gene in a dna string, if any. But in real applications, dna often contain more than one gene. In fact, many genes and we are often interested in finding all the genes. To achieve, we will modify find gene to find genes from any location with the a dna string, then we will defind a major functio that calls findGene to find all the genes in dna.
+```  
 
+What findGene does is that it finds the first gene in a dna string, if any. But in real applications, dna often contain more than one gene. In fact, many genes and we are often interested in finding all the genes. To achieve this, we will define a new function called findAllGenes to find all genes in a given DNA molecule.  
 
-
-
-The code developed on this page, is based on concepts I learnt in a Java Programming course by Duke University on Coursera. However, I explain the code in python because ı think that python programming language is more applicable to datascience than java.
+#### Step 7: findAllGenes 
 
 
 ```python
@@ -142,32 +186,23 @@ def findAllGenes(dna):
     genes = []
     gene_locations = []
     
-    for ii in range(dna_length-5):
+    for ii in range(dna_length-6):
         current_gene = findGene(dna, startIndex)
         if current_gene != "No gene":
             genes.append(current_gene)
             gene_locations.append(i)
             
     result = (gene_locations, genes)
+    return results
 ```
 
+#### Step 8: DNAStatistics
 
 ```python
-def countGenes(dna):
-        gene_indices, genes = findAllGenes(dna)
-        count = len(genes)
-        
-        return count
-        
-        
+def DNAStatistics(DNA)
+
+
+return statistics
 ```
 
-
-
-
-    The code are documented, but if you want to practice along, you should be familiar with python syntax including data structures like list, strings and functions.
-    
-
-
-
-
+The code developed on this page, is based on concepts I learnt in a Java Programming course by Duke University on Coursera. However, I explain the code in python because I think that python programming language is more applicable to datascience than java.
