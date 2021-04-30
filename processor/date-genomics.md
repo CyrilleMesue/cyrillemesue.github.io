@@ -192,7 +192,7 @@ def findAllGenes(dna):
             genes.append(current_gene)
             gene_locations.append(i)
             
-    result = (gene_locations, genes)
+    result = (genes, gene_locations)
     return results
 ```
 
@@ -200,8 +200,22 @@ def findAllGenes(dna):
 
 ```python
 def DNAStatistics(DNA)
-
-
+    statistics = {}
+    genes, gene_locations = findAllgenes(DNA)
+    min_length = len(DNA)
+    max_length = 0
+    longest_gene = ""
+    shortest_gene = ""
+    for gene in genes:
+        curr_length = len(gene)
+        if curr_length > max_length:
+            max_length = curr_length
+            longest_gene = gene
+        if curr_length < min_length:
+            min_length = curr_length
+            shortest_gene = gene
+    
+    statistics = {"Number of genes" : len(genes), "Number of nested genes" : , "Nested Genes" : {"Nested Gene Locations" : , "Number daughter genes" : }, "Longest gene" : {"Gene length" : max_length, "Location of longest gene": gene_locations[genes.find(longest_gene)}, "Shortest gene" : {"Gene length" : min_length, "Location of shotest gene": gene_locations[genes.find(shortest_gene)}}
 return statistics
 ```
 
