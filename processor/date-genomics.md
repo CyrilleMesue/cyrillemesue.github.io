@@ -228,7 +228,7 @@ DNA = file.read()
 
 file.close()
 ```
- Use the code above to read the text file. Make sure you specify the path of the file correctly. The text file ecoli-genome was taken from NBC database and can be downloaded from [here](/my_docs/e-coli-genome.txt)
+ Use the code above to read the text file. Make sure you specify the path of the file correctly. The text file ecoli-genome was taken from NBC database and can be downloaded from [here](https://raw.githubusercontent.com/CyrilleMesue/cyrillemesue.github.io/master/my_docs/e-coli-genome.txt)
 
 
 The code developed on this page, is based on concepts I learnt in a Java Programming course by Duke University on Coursera. However, I explain the code in python because I think that python programming language is more applicable to datascience than java.
