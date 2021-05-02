@@ -219,4 +219,16 @@ def DNAStatistics(DNA)
 return statistics
 ```
 
+The final step of this project involves test testing our code. First make the data available. 
+
+```python
+file = open("filepath/e-coli-genome.txt")
+
+DNA = file.read()
+
+file.close()
+```
+ Use the code above to read the text file. Make sure you specify the path of the file correctly. The text file ecoli-genome was taken from NBC database and can be downloaded from [here]()
+
+
 The code developed on this page, is based on concepts I learnt in a Java Programming course by Duke University on Coursera. However, I explain the code in python because I think that python programming language is more applicable to datascience than java.
