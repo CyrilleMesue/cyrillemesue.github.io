@@ -108,7 +108,7 @@ def findStopCodon(dna, startIndex,stopCodon):
     
     for i in range(startIndex + 3,dna_length-3):
         if dna[i:i+3] == stopCodon:
-            if (stopIndex - startIndex) % 3 == 0:
+            if (i - startIndex) % 3 == 0:
                 stopIndex = i
                 break
                 
