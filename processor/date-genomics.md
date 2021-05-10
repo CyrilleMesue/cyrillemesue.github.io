@@ -124,7 +124,7 @@ def find_Stop_Index(DNA, startIndex):
     stopIndices = []
     
     for stopCodon in stopCodons:
-        stopIndex = findStopIndex(DNA, startIndex, stopCodon)
+        stopIndex = findStopCodon(DNA, startIndex, stopCodon)
         stopIndices.append(stopIndex)
     
     return stopIndices
@@ -141,7 +141,7 @@ def find_Stop_Index(DNA, startIndex):
     stopIndices = []
     
     for stopCodon in stopCodons:
-        stopIndex = findStopIndex(DNA, startIndex, stopCodon)
+        stopIndex = findStopCodon(DNA, startIndex, stopCodon)
         stopIndices.append(stopIndex)
     
     FinalStopIndex = None
