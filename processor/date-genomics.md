@@ -71,6 +71,7 @@ def findStartCodon(dna):
     for i in range(0,dna_length-3):
         if dna[i:i+3] == startCodon:
             startIndex = i
+            break
     return startIndex
     
 ```
