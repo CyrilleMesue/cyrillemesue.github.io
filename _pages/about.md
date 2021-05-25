@@ -43,7 +43,7 @@ My mission for is site is to:
 ### Hobbies  
 * Singing gospel songs during my free time gives me more joy than any other hobby.I am hoping that one day God will also use me through my voice to bless others. My voice is very far from being the best, but I keep singing because singing gives me joy and I hope to improve me voice day by day through persistent practice.
 * Reading books. 
-> “Once you stop learning, you start dying” –Albert Einstein. 
+> “Once you stop learning, you start dying” –Albert Einstein.   
 Everyone knows this is true. We just don't wanna accept it. But without knowledge, its hard to survive in this complex world.
 * Sports. Doing sports is now part of my morning routine. This is something I have experimented on. I tend to live a happier day the days I exercise in the morning than the days I do not. I works for me, and I believe it can work for everybody. 
 * Movies. I got a taste for Mount Zion gospel movies, and technology-oriented superhero tv shows such as "The Flash".
