@@ -4,8 +4,8 @@ author_profile: true
 comments: true
 ---
 
-Hello, my name is Cyrille. I am from the south west region of Cameroon,bit currently residing in Istanbul, Turkey. I major in Bioengineering in the Chemical and Metallurgical Faculty of Yıldız Technical University, Istanbul.
+Hello, my name is Cyrille. I am  Bioengineering Student at Yildiz Technical University. As an aspiring Bioengineer, I aim to utilize machine learning, Medical Imaging and Bioengineering techniques to make a positive impact in global healthcare. I enjoy gathering, organizing and analyzing information, working in groups and contributing to project strategies. I'm also interested in the application of computational biology and Systems Biology in the field of Pathology.
 
-Through this site, I hope to meet and raise a community of individuals who will offer each other the opportunity to learn and grow. While my main focus is in Biomedical research, I am opening to learning new things as I believe that knowledge is the best food for our brains.
+Through this site, I hope to meet and raise a community of individuals who will offer each other the opportunity to learn and grow. While my main focus is in Biomedical research, I am opening to learning new things as I believe that knowledge is the best food for our brains. I value your comments more than any thing as my primary goal is to learn. 
 
-I will use this platform for my blogs and to showcase some of my works and I believe I will learn a lot through your comments.
+Through this portfolio site, I will share with you some the courses I have taken, interesting books(Probably make summaries), Some data science tutorials, especially those that gave me headache and any other information I think is worth sharing. 
