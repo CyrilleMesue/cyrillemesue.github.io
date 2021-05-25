@@ -7,7 +7,8 @@ comments: true
 toc: true
 toc_icon: cog
 ---
-I will outline some of my taken courses on this page. They will include undergraduate courses and MOOCs that help shape me into who I am.      You can visit the MOOCs' website by clicking on the MOOC.  
+I will outline some of my taken courses on this page. They will include undergraduate courses and MOOCs where gain most of my Technical knowledge.        
+You can visit the MOOCs' website by clicking on the course.  
 
 ## Undergraduate Courses  
 ### First Semester Courses(2019/2020 Fall Sememester)  
