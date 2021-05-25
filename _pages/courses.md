@@ -55,11 +55,13 @@ _Apart from taking courses from the university, I felt the need to expand my kno
 You can visit the Course website by clicking on the Course.
 
 ## MOOC Courses  
-### Biology Courses   
+### Biomedical Courses   
   * [The Science of Stem Cells](https://www.coursera.org/learn/stem-cells?)
   * [COVID-19: What You Need to Know (CME Eligible)](https://www.coursera.org/learn/covid-19-what-you-need-to-know?page=2&index=prod_all_products_term_optimization)
   * [Mind Control: Managing Your Mental Health During COVID-19](https://www.coursera.org/learn/manage-health-covid-19)
   * [COVID-19 Contact Tracing](https://www.coursera.org/learn/covid-19-contact-tracing)
+  * [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis?specialization=ai-for-medicine)
+  * [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis)
   
 ### Programming Courses  
   * [Python Basics](https://www.coursera.org/learn/python-basics?specialization=python-3-programming)
@@ -76,6 +78,7 @@ You can visit the Course website by clicking on the Course.
   * [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
   * [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
   * [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
+  * [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?)
   
 ### Other Courses
   * [Write Professional Emails in English](https://www.coursera.org/learn/professional-emails-english?specialization=improve-english)
