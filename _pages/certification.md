@@ -21,12 +21,13 @@ To view a certificate, click on it.
 ## Extracurricular Courses  
 ### AI for Medicine Specialization  
 * [AI for Medical Diagnosis](https://coursera.org/share/18be1bbda7200b8bc54c759706345977)
-* [AI for Medical Prognosis](https://coursera.org/share/502dbf3aed5c42d78b3356c41579b811)
+* [AI for Medical Prognosis](https://coursera.org/share/502dbf3aed5c42d78b3356c41579b811)  
+
 ### Deep Learning Coursera Specialization  
 * [Neural Networks and Deep Learning](https://coursera.org/share/4c28f3ef47d1d950159c23dbb169c540)
 * [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://coursera.org/share/55b433aef5f6ac0e127161c32174ff83)
 * [Structuring Machine Learning Projects](https://coursera.org/share/0c3647ba86afa221ffe0abe8065e8c91)   
-* [Convolutional Neural Networks](https://coursera.org/share/fe481af8a261b13b6d71342b15e1de16)
+* [Convolutional Neural Networks](https://coursera.org/share/fe481af8a261b13b6d71342b15e1de16)  
 
 ### MATLAB Programming for Engineers and Scientists Specialization
 * [Introduction to Programming with MATLAB](https://coursera.org/share/bcc8cd8b4c22afe5ed931ae93ac91674)
