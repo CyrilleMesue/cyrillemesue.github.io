@@ -50,12 +50,13 @@ GRADES: Biology A, Physics A, Chemistry A, Mathematics A, Further Mathematics A
 ### Skills  
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------      
 * Bioengineering Lab Research 
-* Computer Programming 
-* Machine Learning 
-* Deep Learning
+* Machine Learning and Deep Learning with python.
+* Image and Signal Processing
+* Data Analysis
+* Deploying AI for Medical Diagnosis and Prognosis
 * Good Communication  and Leadership
 * Critical Thinking
-* Software: Python, Matlab, Java, JavaScript, CSS, MS Excel, MS Word, MS Powerpoint, Tensorflow   
+* Softwares: Python, Matlab, Java, JavaScript, CSS, MS Excel, MS Word, MS Powerpoint,Tensorflow and Keras Frameworks
 
 ### Languages  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------   
