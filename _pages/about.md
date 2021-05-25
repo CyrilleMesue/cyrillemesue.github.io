@@ -12,7 +12,7 @@ I am a self-disciplined Bioengineering student, interested in Advanced medical t
 ### Mission  
 My mission for is site is to:  
 * make a positive impact in the lives of many young students by sharing educative content.
-* make connections with intellects who have a common interest.
+* make connections with intellects who have a common interest as me.
 * build a team of individuals who are eager to build a better world.
 * create an opportunity for learners, including myself, to continuously acquire knowledge.
 * Raise awareness of various technological advances for medical applications.
@@ -27,7 +27,7 @@ My mission for is site is to:
 * We can all tap into infinite intelligence that God has installed in us. However, we need to first believe.
 * Respect and show God's love to everyone no matter the gender, age, race or religion, and Blessings shall come knocking at your door.
 * Everyone have the Potential to create an impact, but effort is required.
-* Team work. Sharing ideas can indeed lead to the most beautiful and impactful innovations ever.  
+* Team work might be the last resort. Don't journey alone. 
 
 > “If you want to go fast, go alone. If you want to go far, go together.”  African Proverb
 
@@ -41,11 +41,11 @@ My mission for is site is to:
   * Music
   
 ### Hobbies  
-* Singing gospel songs during my free time gives me more joy than any other hobby.I am hoping that one day God will also use me through my voice to bless others. My voice is very far from being the best, but I keep singing because singing gives me joy and I hope to improve me voice day by day through persistent practice.
+* Singing gospel songs during my free time gives me more joy than any other hobby.I am hoping that one day God will also use me through my voice to bless others. My voice is very far from being the best, but I keep singing because singing gives me joy and I hope to improve my voice day by day through persistent practice.
 * Reading books. 
 > “Once you stop learning, you start dying” –Albert Einstein.   
 Everyone knows this is true. We just don't wanna accept it. But without knowledge, its hard to survive in this complex world.
-* Sports. Doing sports is now part of my morning routine. This is something I have experimented on. I tend to live a happier day the days I exercise in the morning than the days I do not. I works for me, and I believe it can work for everybody. 
+* Sports. Doing sports is now part of my morning routine. This is something I have experimented on. I tend to live a happier day the days I exercise in the morning than the days I do not. It works for me, and I believe it can work for everybody. 
 * Movies. I got a taste for Mount Zion gospel movies, and technology-oriented superhero tv shows such as "The Flash".
 
 
