@@ -110,4 +110,4 @@ Below is a link to access the catalogue of some of the helpful MOOC platforms I 
 * [Datacamp](https://www.datacamp.com/)
 * [Alison Courses](https://alison.com/)
 
-I am also eager to learn more. If you have any resources about Biomedical Technologies and Digital Pathology, please feel free to leave some links in the comment section below.  
+I am also eager to learn more. If you have any resources about Biomedical Technologies, Digital Pathology and related disciplines, please feel free to leave some links in the comment section below.  
