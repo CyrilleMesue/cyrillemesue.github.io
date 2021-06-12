@@ -93,7 +93,7 @@ You can visit the Course website by clicking on the Course.
   * [Excel/VBA for Creative Problem Solving, Part 1](https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-1?specialization=excel-vba-creative-problem-solving)
  
  
-I visit many online learning platforms for learning, but Coursera is where I stabilize. However, you might have a different taste for a particular platform. I prefer Coursera because most of the courses have a video-lecture-to-practice-questions-to-project nature. 
+I visit many online learning platforms for learning, but Coursera is my prefered. However, you might have a different taste for a particular platform. I prefer Coursera because most of the courses have a video-lecture-to-practice-questions-to-project nature. 
 
 You might be worried about affording the course, but some of these courses are free. Also, many study platforms offer financial aid or a low pay rate premium subscription to students for paid courses.  
 
