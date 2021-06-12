@@ -3,7 +3,7 @@ layout: single
 title: Certificates and Awards
 permalink: /Certification/
 author_profile: true
-comments: false
+comments: true
 toc: true
 toc_icon: cog
 ---  
