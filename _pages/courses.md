@@ -97,7 +97,7 @@ I visit many online learning platforms for learning, but Coursera is my prefered
 
 You might be worried about affording the course, but some of these courses are free. Also, many study platforms offer financial aid or a low pay rate premium subscription to students to access some many courses for free.  
 
-Below is a link to access the catalogue of some of the helpful MOOC platforms I know.  
+Below is a link to the main catalogue of some of the helpful MOOC platforms I know.  
 
 ### MOOC Platforms  
 * [Coursera](https://www.coursera.org/)
@@ -110,4 +110,4 @@ Below is a link to access the catalogue of some of the helpful MOOC platforms I 
 * [Datacamp](https://www.datacamp.com/)
 * [Alison Courses](https://alison.com/)
 
-I am also eager to learn more. If you have any resources about Biomedical Technologies, Digital Pathology and related disciplines, please feel free to leave some links in the comment section below.  
+I am also eager to learn more. So, if you have any resources about Biomedical imaging, Digital Pathology and related disciplines, please feel free to leave some links in the comment section below.  
