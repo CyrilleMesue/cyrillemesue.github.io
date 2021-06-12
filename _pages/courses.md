@@ -95,7 +95,7 @@ You can visit the Course website by clicking on the Course.
  
 I visit many online learning platforms for learning, but Coursera is my prefered. However, you might have a different taste for a particular platform. I prefer Coursera because most of the courses have a video-lecture-to-practice-questions-to-project nature. 
 
-You might be worried about affording the course, but some of these courses are free. Also, many study platforms offer financial aid or a low pay rate premium subscription to students for paid courses.  
+You might be worried about affording the course, but some of these courses are free. Also, many study platforms offer financial aid or a low pay rate premium subscription to students to access some many courses for free.  
 
 Below is a link to access the catalogue of some of the helpful MOOC platforms I know.  
 
