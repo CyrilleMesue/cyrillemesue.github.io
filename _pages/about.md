@@ -7,7 +7,7 @@ comments: true
 toc: true
 toc_icon: cog
 ---
-I am a self-disciplined Bioengineering student, interested in Advanced medical technologies and AI, as well as their application for medical Diagnosis, Prognosis and Companion Diagnosis. I'm also interested in the application of computational biology and Systems Biology in the field of Pathology.   
+I am a self-disciplined Bioengineering student, interested in Advanced medical technologies and AI, as well as their application for medical Diagnosis, Prognosis and Companion Diagnosis. I'm also interested in the application of computational and Systems Biology in the field of Pathology.   
 
 ### Mission  
 My mission for is site is to:  
