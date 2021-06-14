@@ -30,7 +30,7 @@ JANUARY 2020 - 1 MONTH
 <b>Yildiz Technical University, İstanbul Turkey</b>  
 _Bachelors Degree in Bioengineering_  
 SEPTEMBER 2018- PRESENT  
-Cumulative GPA: 3.44  
+Cumulative GPA: 3.44/4.00   
 
 <b>University of Yaounde I, Yaounde Cameroon</b>  
 _Bachelors Degree in Biosciences_  
