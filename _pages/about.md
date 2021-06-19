@@ -31,6 +31,7 @@ My mission for is site is to:
 
 ### Interest  
   * Biomedical Research
+  * Cancer Research
   * Digital Pathology
   * Medical Imaging
   * Biomedical Technologies
