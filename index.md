@@ -4,7 +4,7 @@ author_profile: true
 comments: true
 ---
 
-Hello, my name is Cyrille. I am a Bioengineering Student at Yildiz Technical University in Istanbul, Turkey. As an aspiring Bioengineer, I aim to utilize machine learning, Medical Imaging and Bioengineering techniques to make a positive impact in global healthcare. I enjoy gathering, organizing and analyzing information, working in groups and contributing to project strategies. I'm also interested in the application of computational and Systems Biology in the pathophysiology of cancer.  
+Hello, my name is Cyrille. I am a Bioengineering Student at Yildiz Technical University in Istanbul, Turkey. As an aspiring Bioengineer, I aim to utilize machine learning, Medical Imaging and Bioengineering techniques to make a positive impact in global healthcare. I enjoy gathering, organizing and analyzing information, working in groups and contributing to project strategies. I'm also interested in the applications of computational and Systems Biology in the pathophysiology of cancer.  
 
 Through this site, I hope to meet and raise a community of individuals who will offer one another the opportunity to learn and grow. While my main focus is in Biomedical research, I am open to learning new things as I believe that knowledge is the best food for our brains. I value your comments more than any thing as my primary goal is to learn. 
 
