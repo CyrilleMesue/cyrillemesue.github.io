@@ -16,4 +16,4 @@ I will summarise most of my completed datascience projects on [github](https://g
 
 You can connect with me on [Linkedin](https://www.linkedin.com/in/cyrille-mesue-njume-3a448a184/), [Facebook](https://m.facebook.com/home.php), and on [Twitter](https://twitter.com/home).
 
-If you are new on this page, you will be prompted to sign into github before commenting. You can sign in with google and the job is done. 
+If you are new on this page, you will be prompted to sign into github before you can make comments. You can sign in using your google email address and the job is done. 
