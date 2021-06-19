@@ -24,12 +24,8 @@ My mission for is site is to:
 * Bring Technology Innovation to the heart of the underdeveloped world.   
   
 ### Slogan 
-* We can all tap into infinite intelligence that God has installed in us. However, we need to first believe.
-* Respect and show God's love to everyone no matter the gender, age, race or religion, and Blessings shall come knocking at your door.
-* Everyone have the Potential to create an impact, but effort is required.
-* Team work might be the last resort. Don't journey alone. 
-
-> “If you want to go fast, go alone. If you want to go far, go together.”  African Proverb
+> Desire - Pursue - Believe - Acquire. 
+> Teamwork >“If you want to go fast, go alone. If you want to go far, go together.”  African Proverb
 
 ### Interest  
   * Biomedical Research
