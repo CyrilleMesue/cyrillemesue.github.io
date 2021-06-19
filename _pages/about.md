@@ -26,7 +26,7 @@ My mission for is site is to:
 ### Slogan 
 > Desire - Pursue - Believe - Acquire.  
 
-> Teamwork 
+> Teamwork  
 >“If you want to go fast, go alone. If you want to go far, go together.”  African Proverb
 
 ### Interest  
