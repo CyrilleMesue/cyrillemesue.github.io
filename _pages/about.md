@@ -24,9 +24,9 @@ My mission for is site is to:
 * Bring Technology Innovation to the heart of the underdeveloped world.   
   
 ### Slogan 
-> *Desire - Pursue - Believe - Acquire*.  
+> <b>Desire - Pursue - Believe - Acquire</b>.  
 
-> *Teamwork*  
+> <b>Teamwork</b>  
 >“If you want to go fast, go alone. If you want to go far, go together.”  African Proverb
 
 ### Interest  
