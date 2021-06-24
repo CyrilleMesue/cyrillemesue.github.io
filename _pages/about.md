@@ -19,7 +19,7 @@ My mission for is site is to:
 * Showcase my skills and Achievements.    
 
 ### Vision  
-* Be part of new breakthroughs in medical diagnostics, prognostics and companion diagnostics, as well as advancements in biomedical research. 
+* Be part of new breakthroughs in medical diagnosis, prognosis and companion diagnosis, as well as advancements in biomedical research. 
 * Be part of great Innovation in biomedical technologies.  
 * Contribute to the making of a healthier world.    
   
