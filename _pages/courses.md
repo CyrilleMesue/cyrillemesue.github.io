@@ -110,4 +110,4 @@ Below is a link to the main catalogue of some of the helpful MOOC platforms I kn
 * [Datacamp](https://www.datacamp.com/)
 * [Alison Courses](https://alison.com/)
 
-I am also eager to learn more. So, if you have any resources about Biomedical imaging, Digital Pathology and related disciplines, please feel free to leave some links in the comment section below.  
+I am also eager to learn more. So, if you have any resources about Biomedical imaging, AI for medicine, cancer research and related disciplines, please feel free to leave some links in the comment section below.  
