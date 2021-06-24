@@ -45,6 +45,6 @@ My mission for is site is to:
 > “Once you stop learning, you start dying” –Albert Einstein.     
 Everyone knows this is true. We just don't wanna accept it. But without knowledge, its hard to survive in this complex world.
 * Sports. Doing sports is now part of my morning routine. This is something I have experimented on. I tend to live a happier day the days I exercise in the morning than the days I do not. It works for me, it might work for you as well. 
-* Movies. I got a taste for Mount Zion gospel movies, and technology-oriented superhero tv shows such as "The Flash".
+* Movies. I got a taste for Mount Zion gospel movies, and technology-oriented superhero tv shows such as "The Flash", as well as supernatural TV shows.  
 
 
