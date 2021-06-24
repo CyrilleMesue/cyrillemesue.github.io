@@ -7,7 +7,7 @@ comments: true
 toc: true
 toc_icon: cog
 ---
-I will outline some of the courses I have taken on this page. They will include undergraduate courses and MOOCs where I gained most of my Technical knowledge.        
+This page includes some courses I have taken over the years since I enrolled into college. They include undergraduate courses and MOOCs where I gained most of my Technical knowledge.        
 You can visit the MOOCs' website by clicking on the course.  
 
 ## Undergraduate Courses  
