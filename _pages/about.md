@@ -19,9 +19,9 @@ My mission for is site is to:
 * Showcase my skills and Achievements.    
 
 ### Vision  
-* Be part of an evolution in medical technologies(including AI) that will result in accurate medical diagnostics, prognostics and companion diagnostics, and advancements in biomedical research. 
+* Be part of an evolution in medical technologies that will result in accurate medical diagnostics, prognostics and companion diagnostics, and advancements in biomedical research. 
 * Make connections with great developers and endeavor to become one of them.
-* Bring Technology Innovation to the heart of the underdeveloped world.   
+* Be part of great Innovation in biomedical technologies.   
   
 ### Slogan 
 > <b>Desire - Pursue - Believe - Acquire</b>.  
