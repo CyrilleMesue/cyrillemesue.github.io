@@ -8,7 +8,7 @@ toc: true
 ---
 ### Summary  
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
-Enthusiastic Bioengineer eager to contribute to team success through hard work, attention to detail and bears excellent organizational skills. Employs excellent leadership skills , critical thinking and multi-tasking strengths. Aims at utilizing machine learning, Medical Imaging and Bioengineering techniques to make a positive impact in global healthcare. Enjoys gathering, organizing and analyzing information, working in groups and contributing to project strategies. Also interested in the application of computational biology and Systems Biology in the pathophysiology of cancer. 
+Enthusiastic Bioengineer eager to contribute to team success through hard work, attention to detail and bears excellent organizational skills. Employs excellent leadership skills , critical thinking and multi-tasking strengths. Aims at utilizing machine learning, Medical Imaging and Bioengineering techniques to make a positive impact in global healthcare. Enjoys gathering, organizing and analyzing information, working in groups and contributing to project strategies. Also curious about computational and systems biology approaches for understanding the pathophysiology of cancer.    
 
 ### Experience  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
