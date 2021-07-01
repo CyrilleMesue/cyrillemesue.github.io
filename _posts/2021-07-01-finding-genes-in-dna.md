@@ -14,6 +14,6 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions : 
     - label: "More Info"
-      url: "https://cyrillemesue.github.io/mind-control/"
+      url: "https://cyrillemesue.github.io/finding-genes-in-dna/"
 --- 
 
