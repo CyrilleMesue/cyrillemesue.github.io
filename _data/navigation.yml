@@ -12,7 +12,7 @@ main:
     url: /Courses/
   - title: "Resume"
     url: /Resume/
-  - title: "Blog"
+  - title: "Blog & Tutorials"
     url: /Blog/
 
   # - title: "Sample Posts"
