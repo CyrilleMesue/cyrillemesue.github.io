@@ -64,6 +64,8 @@ You can visit the Course website by clicking on the Course.
   * [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis?specialization=ai-for-medicine)
   * [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis)
   * [Introduction to the Biology of Cancer].(https://www.coursera.org/learn/cancer#syllabus)
+  * [Understanding Cancer Metastasis](https://www.coursera.org/learn/cancer-metastasis?)
+ 
   
 ### Programming Courses  
   * [Python Basics](https://www.coursera.org/learn/python-basics?specialization=python-3-programming)
@@ -81,6 +83,7 @@ You can visit the Course website by clicking on the Course.
   * [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
   * [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
   * [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?)
+  * [Fundamentals of Digital Image and Video Processing].(https://www.coursera.org/learn/digital?)
   
 ### Other Courses
   * [Write Professional Emails in English](https://www.coursera.org/learn/professional-emails-english?specialization=improve-english)
