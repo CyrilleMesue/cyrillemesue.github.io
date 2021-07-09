@@ -22,7 +22,8 @@ To view a certificate, click on it.
 ### AI for Medicine Specialization  
 * [AI for Medical Diagnosis](https://coursera.org/share/18be1bbda7200b8bc54c759706345977)
 * [AI for Medical Prognosis](https://coursera.org/share/502dbf3aed5c42d78b3356c41579b811)  
-* [AI For Medical Treatment](https://coursera.org/share/45458276cd14d456f7f60f50ae417a22)   
+* [AI For Medical Treatment](https://coursera.org/share/45458276cd14d456f7f60f50ae417a22)  
+* [Specialization Certificate](https://coursera.org/share/e42cfb312ad711ddda9559e6fc67db7f)   
 
 ### Deep Learning Coursera Specialization  
 * [Neural Networks and Deep Learning](https://coursera.org/share/4c28f3ef47d1d950159c23dbb169c540)
