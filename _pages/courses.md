@@ -63,6 +63,7 @@ You can visit the Course website by clicking on the Course.
   * [COVID-19 Contact Tracing](https://www.coursera.org/learn/covid-19-contact-tracing)
   * [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis?specialization=ai-for-medicine)
   * [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis)
+  * [AI For Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment)
   * [Introduction to the Biology of Cancer](https://www.coursera.org/learn/cancer#syllabus)
   * [Understanding Cancer Metastasis](https://www.coursera.org/learn/cancer-metastasis?)
  
