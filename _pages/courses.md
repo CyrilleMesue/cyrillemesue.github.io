@@ -76,6 +76,7 @@ You can visit the Course website by clicking on the Course.
   * [Programming Foundations with JavaScript, HTML and CSS](https://www.coursera.org/learn/duke-programming-web?specialization=java-programming)
   * [Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming?specialization=java-programming)
   * [Introduction to Programming with MATLAB](https://www.coursera.org/learn/matlab?specialization=matlab-programming-engineers-scientists)
+  * [Introduction to Data, Signal, and Image Analysis with MATLAB](https://www.coursera.org/learn/matlab-image-processing)  
 
 ### Engineering and AI Courses
   * [Differential Equations for Engineers](https://www.coursera.org/learn/differential-equations-engineers)
