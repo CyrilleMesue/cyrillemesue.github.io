@@ -33,6 +33,7 @@ To view a certificate, click on it.
 
 ### MATLAB Programming for Engineers and Scientists Specialization
 * [Introduction to Programming with MATLAB](https://coursera.org/share/bcc8cd8b4c22afe5ed931ae93ac91674)
+* [Introduction to Data, Signal, and Image Analysis with MATLAB](https://coursera.org/share/b135ac1c33bf77f312bb4cd64c714727)  
 
 ### Java Programming and Software Engineering Fundamentals Specialization
 * [Programming Foundations with JavaScript, HTML and CSS](https://coursera.org/share/ca5c23ad1330cc6a6105960d49dbd75b)
