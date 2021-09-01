@@ -23,6 +23,7 @@ In many AI for healthcare problems, images are provided in DICOM format and need
 # pip install pydicom
 # pip install pylibjpeg pylibjpeg-libjpeg pydicom
 # pip install --upgrade numpy
+# opencv 
 ```
 ### Step 02: Import all necessary libraries.
 ```python
