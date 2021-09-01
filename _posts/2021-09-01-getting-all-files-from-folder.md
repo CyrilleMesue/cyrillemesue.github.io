@@ -28,5 +28,5 @@ img_paths = sorted([os.path.join(images_path, fname) for fname in os.listdir(ima
                                       if fname.endswith(".jpeg") and not fname.startswith(".")]) # replace ".jpeg" with the format in which the image file is.
                                       
 # img_paths is a list of all image paths in the PATH directory.
- 
+```
        
