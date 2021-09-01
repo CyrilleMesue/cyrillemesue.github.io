@@ -1,8 +1,8 @@
 --- 
 layout: single
-title: "Using Python to find all genes in DNA: A step by step Approach."
+title: "How to convert Many Dicom Files to PNG"
 author_profile: true
-date: 2021-07-01
+date: 2021-09-01
 comments: true
 show_date: true
 toc: true
