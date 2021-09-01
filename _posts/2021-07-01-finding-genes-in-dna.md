@@ -35,6 +35,7 @@ from tqdm.notebook import tqdm
 from dask.diagnostics import ProgressBar
 from pathlib import Path
 ```
+Step 03: Write the Code
 Here’s the code for handling multiple CT DICOM images and how to save them into pngs in your custom folders.
 
 ```
