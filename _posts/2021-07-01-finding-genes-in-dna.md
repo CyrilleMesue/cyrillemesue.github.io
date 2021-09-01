@@ -14,6 +14,6 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions : 
     - label: "More Info"
-      url: "https://cyrillemesue.github.io/finding-genes-in-dna/"
+      url: "https://cyrillemesue.github.io/converting dicom files/"
 --- 
 
