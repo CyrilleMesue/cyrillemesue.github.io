@@ -17,13 +17,13 @@ header:
       url: "https://cyrillemesue.github.io/converting-dicom-files/"
 --- 
 
-Step 01: Make sure the following packages are already installed on your machine or virtual environment.
+### Step 01: Make sure the following packages are already installed on your machine or virtual environment.
 ```python
 # pip install pydicom
 # pip install pylibjpeg pylibjpeg-libjpeg pydicom
 # pip install --upgrade numpy
 ```
-Step 02: Import all necessary libraries.
+### Step 02: Import all necessary libraries.
 ```python
 import numpy as np
 import pydicom
@@ -35,7 +35,7 @@ from tqdm.notebook import tqdm
 from dask.diagnostics import ProgressBar
 from pathlib import Path
 ```
-Step 03: Write the Code
+### Step 03: Write the Code
 Here’s the code for handling multiple CT DICOM images and how to save them into pngs in your custom folders.
 
 ```
@@ -113,4 +113,4 @@ for imagepath in tqdm(dicom_img_paths):
   dcm_to_png(imagepath, outdir)
 ```
 
-
+The images produced in the above code are grayscale images saved as 8 bit single channel png. 
