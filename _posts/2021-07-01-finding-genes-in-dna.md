@@ -17,6 +17,7 @@ header:
       url: "https://cyrillemesue.github.io/converting-dicom-files/"
 --- 
 
+In many AI for healthcare problems, images are provided in DICOM format and need to be converted to png or jpeg formats before using them to train a model. Below is a brief tutorial on how to convert CT dicom images to png format.
 ### Step 01: Make sure the following packages are already installed on your machine or virtual environment.
 ```python
 # pip install pydicom
