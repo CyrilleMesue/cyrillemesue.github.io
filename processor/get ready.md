@@ -19,4 +19,7 @@ To move from zero level programming to being comfortable with machine learning a
 5. AI for Medicine Coursera Specialization 
 6. Work on a real world AI based project 
 
+I will give details about each of these resources in the following paragraphs. Note, these resources are only only courses. You will need to find the related literature by yourself if you wanna go deep into each topic.  
 
+1.[Python 3 Programming Coursera Specialization by the University of Michigan]()
+This specialization is made of five(5) courses properly arranged to help students progress in python from zero to intermediate/mastery. Here is the order in which I took the courses and I find it very useful: Python Basics, 
