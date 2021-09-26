@@ -31,7 +31,7 @@ During my free time, I read, watch movies, listen to music, sing, hangout with f
 ![image tooltip here](/images/post2.jpeg)
 We recently participated in an international competition known as Teknofest AI for Health. We went by the team name AI KNIGHTS, a two man team with [Beltus Nkwawir](https://www.linkedin.com/in/beltus/). 
 
-![image tooltip here](/images/post3.jpeg)
+![image tooltip here](/images/post3_2.jpeg)
 
 This competition was very competitive as over 250 teams registered and our team made it to the finals and was ranked number 16. To learn more about the project , click [here](https://cyrillemesue.github.io/Projects/).     
 ![image tooltip here](/images/post1.jpeg)
