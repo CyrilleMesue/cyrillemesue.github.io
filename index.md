@@ -28,6 +28,7 @@ I am a self-taught datascientist and systems biologist and intend to use my deep
 During my free time, I read books, watch movies, listen to music, sing, hangout with friends or do a combination of both. However, my favourite hobby is singing, as singing helps me release my stress and to be more productive.  
 
 ## Most Recent Activities   
+
 ![image tooltip here](/images/post2.jpeg)
 
 We recently participated in an international competition known as Teknofest AI for Health. We went by the team name AI KNIGHTS, a two man team with [Beltus Nkwawir](https://www.linkedin.com/in/beltus/) as the team leader.   
@@ -37,6 +38,7 @@ We recently participated in an international competition known as Teknofest AI f
 This competition was very competitive because over 250 teams registered and there were three elimination phases. However, our team made it to the finals and was ranked number 16 out of 53 teams that made it to the finals. To learn more about the project , click [here](https://cyrillemesue.github.io/Projects/).   
 
 ![image tooltip here](/images/post1.jpeg)
+
 
 
 
