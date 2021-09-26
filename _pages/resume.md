@@ -6,6 +6,8 @@ author_profile: true
 comments: true
 toc: true
 ---
+You can download a pdf version of my resume by clicking [here]({{site.url}}/download/resume.pdf)   
+
 ### Summary  
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 Enthusiastic Bioengineer eager to contribute to team success through hard work. Attentive to detail, employs excellent critical thinking and aims at utilizing machine learning, Medical Imaging and Bioengineering techniques to make a positive impact in global healthcare. Enjoys gathering, organizing and analyzing information, and contributing to project strategies.    
@@ -65,7 +67,7 @@ GRADES: Biology A, Physics A, Chemistry A, Mathematics A, Further Mathematics A
 * <b>German</b> - Limited Working Proficiency 
 * <b>Akosse</b> - Native
 
-You may also download a soft copy of my resume from [here]({{site.url}}/download/resume.pdf)
+You can download a pdf version of my resume by clicking [here]({{site.url}}/download/resume.pdf)
 
 
 
