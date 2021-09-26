@@ -2,9 +2,9 @@
 layout: home
 author_profile: true
 title: About Me
+comments: true
 toc: true
 toc_icon: cog
-comments: true
 ---
 
 ![image tooltip here](/images/1621764685815.jpg)
