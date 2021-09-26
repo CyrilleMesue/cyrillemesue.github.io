@@ -14,7 +14,7 @@ MARCH 2021- SEPTEMBER 2021
 
 ![image tooltip here](/images/post2.jpeg)
 
-This project was part of the teknofest artificial intelligence (AI) for healthcare 2021 competition. 
+This project was part of the teknofest artificial intelligence (AI) for healthcare 2021 competition. And I worked under the two man team, AI KNIGHTS, with [Beltus Nkwawir](https://www.linkedin.com/in/beltus/), a computer science master's student as the team leader. 
 
 In this project, the task was to create a deep learning model that can identify areas of the brain that show signs of stroke; ischemic or hemorrhagic strokes, in brain CT  images. We built both a classification model to tell if an image has stroke or not, and, a segmentation model to mark pixels in the brain CT scan where the stroke is found. 
 
