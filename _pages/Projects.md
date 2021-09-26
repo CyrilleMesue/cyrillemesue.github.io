@@ -9,7 +9,7 @@ toc_icon: cog
 ---
 Below are some projects I completed or participated in.  
 
-## Project 01 | Teknofest AI in Healthcare Competition as AI KNIGHTS
+## Project 01 | Teknofest AI in Healthcare Competition  
 MARCH 2021- SEPTEMBER 2021  
 
 ![image tooltip here](/images/post2.jpeg)
