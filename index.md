@@ -7,7 +7,7 @@ toc_icon: cog
 comments: true
 ---
 
-![image tooltip here](/assets/1621764685815.jpg)
+![image tooltip here](/images/1621764685815.jpg)
 ![name of the image][{{site.url}}/assets/1621764685815.jpg]
 
 
