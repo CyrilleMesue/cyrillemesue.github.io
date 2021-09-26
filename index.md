@@ -24,13 +24,14 @@ I am a self-taught datascientist and systems biologist and intend to use my deep
 > <b>Teamwork</b>  
 >“If you want to go fast, go alone. If you want to go far, go together.”  African Proverb
   
-### Hobbies  
-* Singing gospel songs during my free time gives me more joy than any other hobby.I am hoping that one day God will also use me through my voice to bless others. My voice is very far from being the best, but I keep singing because singing gives me joy and I hope to improve my voice day by day through persistent practice.
-* Reading books. 
-> “Once you stop learning, you start dying” –Albert Einstein.     
-Everyone knows this is true. We just don't wanna accept it. But without knowledge, its hard to survive in this complex world.
-* Sports. Doing sports is now part of my morning routine. This is something I have experimented on. I tend to live a happier day the days I exercise in the morning than the days I do not. It works for me, it might work for you as well. 
-* Movies. I got a taste for Mount Zion gospel movies, and technology-oriented superhero tv shows such as "The Flash", as well as supernatural TV shows.  
+## Hobbies  
+During my free time, I read, watch movies, listen to music, sing, hangout with friends or do a combination of both. However, my favourite hobby is singing as singing helps my release my stress and helps me to be more productive.  
+
+## Most Recent Activities   
+![image tooltip here](/images/WhatsApp Image 2021-09-22 at 3.29.07 PM.jpeg)
+We recently participated in an international competition known as Teknofest AI for Health. We went by the team name AI KNIGHTS, a two man team with [Beltus Nkwawir](https://www.linkedin.com/in/beltus/). This competition was very competitive as over 250 teams registered and our team made it to the finals and was ranked number 16. To learn more about the project , click [here](https://cyrillemesue.github.io/Projects/).  
+
+
 
 
 
