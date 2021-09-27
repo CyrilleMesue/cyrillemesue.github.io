@@ -31,7 +31,7 @@ During my free time, I read books, watch movies, listen to music, sing, hangout 
 
 ![image tooltip here](/images/post2.jpeg)
 
-We recently participated in an international competition known as Teknofest AI for Health. We went by the team name AI KNIGHTS, a two man team with [Beltus Nkwawir](https://www.linkedin.com/in/beltus/) as the team leader.   
+We recently participated in an international competition known as Teknofest AI for Healthcare. We went by the team name AI KNIGHTS, a two man team with [Beltus Nkwawir](https://www.linkedin.com/in/beltus/) as the team leader.   
 
 ![image tooltip here](/images/post3_2.jpeg)
 
