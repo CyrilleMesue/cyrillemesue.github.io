@@ -7,7 +7,7 @@ comments: true
 toc: true
 toc_icon: cog
 ---
-Below are some projects I completed or participated in.  
+Below are some of my most recent projects.    
 
 ## Project 01 | Teknofest AI in Healthcare Competition  
 MARCH 2021- SEPTEMBER 2021  
