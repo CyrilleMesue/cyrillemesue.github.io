@@ -165,5 +165,44 @@ By the end, you will be able to build and train Recurrent Neural Networks (RNNs)
 The Deep Learning Specialization is a foundational program that will help you understand the capabilities, challenges, and consequences of deep learning and prepare you to participate in the development of leading-edge AI technology. It provides a pathway for you to take the definitive step in the world of AI by helping you gain the knowledge and skills to level up your career.
 
 5. [AI for Medicine Coursera Specialization by Deeplearning.ai](https://www.coursera.org/specializations/ai-for-medicine)
+AI is transforming the practice of medicine. It’s helping doctors diagnose patients more accurately, make predictions about patients’ future health, and recommend better treatments. This three-course Specialization will give you practical experience in applying machine learning to concrete problems in medicine.
 
+These courses go beyond the foundations of deep learning to teach you the nuances in applying AI to medical use cases.  If you are new to deep learning or want to get a deeper foundation of how neural networks work, we recommend taking the Deep Learning Specialization.
 
+5.1 [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis?specialization=ai-for-medicine)  
+
+AI is transforming the practice of medicine. It’s helping doctors diagnose patients more accurately, make predictions about patients’ future health, and recommend better treatments. As an AI practitioner, you have the opportunity to join in this transformation of modern medicine. If you're already familiar with some of the math and coding behind AI algorithms, and are eager to develop your skills further to tackle challenges in the healthcare industry, then this specialization is for you. No prior medical expertise is required! 
+
+This program will give you practical experience in applying cutting-edge machine learning techniques to concrete problems in modern medicine:
+
+- In Course 1, you will create convolutional neural network image classification and segmentation models to make diagnoses of lung and brain disorders. 
+- In Course 2, you will build risk models and survival estimators for heart disease using statistical methods and a random forest predictor to determine patient prognosis. 
+- In Course 3, you will build a treatment effect predictor, apply model interpretation techniques and use natural language processing to extract information from radiology reports.
+
+![image tooltip here](/images/ai4m1.png)
+
+These courses go beyond the foundations of deep learning to give you insight into the nuances of applying AI to medical use cases. As a learner, you will be set up for success in this program if you are already comfortable with some of the math and coding behind AI algorithms. You don't need to be an AI expert, but a working knowledge of deep neural networks, particularly convolutional networks, and proficiency in Python programming at an intermediate level will be essential. If you are relatively new to machine learning or neural networks, we recommend that you first take the Deep Learning Specialization, offered by deeplearning.ai and taught by Andrew Ng.
+
+The demand for AI practitioners with the skills and knowledge to tackle the biggest issues in modern medicine is growing exponentially. Join us in this specialization and begin your journey toward building the future of healthcare.
+
+5.2 [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis?specialization=ai-for-medicine)
+
+AI is transforming the practice of medicine. It’s helping doctors diagnose patients more accurately, make predictions about patients’ future health, and recommend better treatments. This Specialization will give you practical experience in applying machine learning to concrete problems in medicine. 
+
+![image tooltip here](/images/ai4m2.png) 
+
+Machine learning is a powerful tool for prognosis, a branch of medicine that specializes in predicting the future health of patients. In this second course, you’ll walk through multiple examples of prognostic tasks. You’ll then use decision trees to model non-linear relationships, which are commonly observed in medical data, and apply them to predicting mortality rates more accurately. Finally, you’ll learn how to handle missing data, a key real-world challenge. 
+
+These courses go beyond the foundations of deep learning to teach you the nuances in applying AI to medical use cases.  This course focuses on tree-based machine learning, so a foundation in deep learning is not required for this course.  However, a foundation in deep learning is highly recommended for course 1 and 3 of this specialization.  You can gain a foundation in deep learning by taking the Deep Learning Specialization offered by deeplearning.ai and taught by Andrew Ng.
+
+5.3 [AI For Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment?specialization=ai-for-medicine)
+
+AI is transforming the practice of medicine. It’s helping doctors diagnose patients more accurately, make predictions about patients’ future health, and recommend better treatments. This Specialization will give you practical experience in applying machine learning to concrete problems in medicine.
+
+![image tooltip here](/images/ai4m3.png) 
+
+Medical treatment may impact patients differently based on their existing health conditions. In this third course, you’ll recommend treatments more suited to individual patients using data from randomized control trials. In the second week, you’ll apply machine learning interpretation methods to explain the decision-making of complex machine learning models. Finally, you’ll use natural language entity extraction and question-answering methods to automate the task of labeling medical datasets.
+
+These courses go beyond the foundations of deep learning to teach you the nuances in applying AI to medical use cases. If you are new to deep learning or want to get a deeper foundation of how neural networks work, we recommend that you take the Deep Learning Specialization.
+
+6. Work on a real world AI based project
