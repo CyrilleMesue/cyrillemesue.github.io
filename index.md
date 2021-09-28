@@ -17,13 +17,7 @@ I am a self-taught datascientist and systems biologist and intend to use my deep
 * To be part of new breakthroughs in medical diagnosis, prognosis and companion diagnosis, as well as advancements in biomedical research. 
 * To be part of great Innovation in biomedical technologies.  
 * To contribute to the making of a healthier world.    
-  
-## Slogan 
-> <b>Desire - Pursue - Believe - Acquire</b>.  
-
-> <b>Teamwork</b>  
->“If you want to go fast, go alone. If you want to go far, go together.”  African Proverb
-  
+   
 ## Hobbies  
 During my free time, I read books, watch movies, listen to music, sing, hangout with friends or do a combination of both. However, my favourite hobby is singing, as singing helps me release my stress and to be more productive.  
 
