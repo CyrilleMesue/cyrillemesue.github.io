@@ -39,8 +39,7 @@ You can visit the MOOCs' website by clicking on the course.
 * Differential Equations
 * Principles of Atatürk and History of Modern Turkey I
 * Biomedical Electronics
-
-I am currently pursuing my fourth-semester undergraduate studies. Below are the undergraduate courses I am taking this semester.  
+* 
 ### Fourth Semester Courses(2020/2021 Spring Semester)
 * Fluid Mechanics in Bioengineering
 * Biomaterials
@@ -50,6 +49,16 @@ I am currently pursuing my fourth-semester undergraduate studies. Below are the 
 * Principles of Atatürk and History of Modern Turkey II
 * Bioreactor Design 
 * Stoichiometry
+
+I am currently pursuing my fifth-semester undergraduate studies. Below are the undergraduate courses I am taking this semester.  
+
+### Fifth Semester Courses(2020/2021 Spring Semester)
+* Heat Transfer in Bioengineering
+* MassTransfer in Bioengineering
+* Separation Processes in Bioengineering
+* Genetics Engineering
+* Concepts of Genetics
+* Fundamentals of Biopolymers
 
 _Apart from taking courses from the university, I felt the need to expand my knowledge and took advantage of the internet's large pool of online resources for learning. Below are some MOOCs I have taken since the outbreak of Covid-19 and the ones I find to be very valuable._    
 
