@@ -11,7 +11,7 @@ This page includes some courses I have taken over the years since I enrolled int
 You can visit the MOOCs' website by clicking on the course.  
 
 ## Undergraduate Courses  
-### First Semester Courses(2019/2020 Fall Sememester)  
+### First Semester Courses (2019/2020 Fall Sememester)  
  * Introduction to Bioengineering
  * Introduction to Computer Sciences
  * Physics 01
@@ -20,7 +20,7 @@ You can visit the MOOCs' website by clicking on the course.
  * Turkish Language 01
  * Mathematics 01
 
-### Second Semester Courses(2019/2020 Spring Semester)  
+### Second Semester Courses (2019/2020 Spring Semester)  
 * Occupational Health and Safety 01
 * Mathematics 02
 * Physics 02
@@ -30,7 +30,7 @@ You can visit the MOOCs' website by clicking on the course.
 * Turkish Language 02
 * Introduction to Philosophy
 
-### Third Semester Courses(2020/2021 Fall Semester)
+### Third Semester Courses (2020/2021 Fall Semester)
 * Occupational Health and Safety 02
 * Biochemistry in Bioengineering
 * Biothermodynamics
@@ -39,8 +39,8 @@ You can visit the MOOCs' website by clicking on the course.
 * Differential Equations
 * Principles of Atatürk and History of Modern Turkey I
 * Biomedical Electronics
-* 
-### Fourth Semester Courses(2020/2021 Spring Semester)
+
+### Fourth Semester Courses (2020/2021 Spring Semester)
 * Fluid Mechanics in Bioengineering
 * Biomaterials
 * Cell Biology and Cellular Mechanisms
@@ -52,7 +52,7 @@ You can visit the MOOCs' website by clicking on the course.
 
 I am currently pursuing my fifth-semester undergraduate studies. Below are the undergraduate courses I am taking this semester.  
 
-### Fifth Semester Courses(2020/2021 Spring Semester)
+### Fifth Semester Courses (2020/2021 Spring Semester)
 * Heat Transfer in Bioengineering
 * MassTransfer in Bioengineering
 * Separation Processes in Bioengineering
