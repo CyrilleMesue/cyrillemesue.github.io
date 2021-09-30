@@ -52,7 +52,7 @@ You can visit the MOOCs' website by clicking on the course.
 
 I am currently pursuing my fifth-semester undergraduate studies. Below are the undergraduate courses I am taking this semester.  
 
-### Fifth Semester Courses (2020/2021 Spring Semester)
+### Fifth Semester Courses (2021/2022 Fall Semester)
 * Heat Transfer in Bioengineering
 * MassTransfer in Bioengineering
 * Separation Processes in Bioengineering
