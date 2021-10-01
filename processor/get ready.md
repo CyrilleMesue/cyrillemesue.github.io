@@ -54,15 +54,19 @@ This specialization is made of five(5) courses properly arranged to help student
 
 ![image tooltip here](/images/python_basics_shot.png)
 
-In this course, you will learn the basics of python3 programming, including conditional execution and iteration as control structures, and strings and lists as data structures. You'll program an on-screen Turtle to draw pretty pictures. You'll also learn to draw reference diagrams as a way to reason about program executions, which will help to build up your debugging skills. The course has no prerequisites. It will cover Chapters 1-9 of the textbook "Fundamentals of Python Programming," which is the accompanying text (optional and free) for this course. I recommend you make use of the textbook. It will help you get fluent faster.
+In this course, you will learn the basics of python3 programming, including how to write conditional statements and execute them; how to loop over a list of items; and data structures such as strings and lists. You will program an on-screen Turtle to draw pretty pictures. You'll also learn a special debugging technique to easily execute your programs. Don't worry if you do not have any programming experience because the course requires none.
 
 This is the first of five courses in the Python 3 Programming Specialization.
+
+
+
+
 
 1.2. [Python Functions, Files, and Dictionaries](https://www.coursera.org/learn/python-functions-files-dictionaries?specialization=python-3-programming)     
 
 ![image tooltip here](/images/python_functions.png)
 
-This course introduces the dictionary data structure and user-defined functions. You’ll learn about local and global variables, optional and keyword parameter-passing, named functions and lambda expressions. You’ll also learn about Python’s sorted function and how to control the order in which it sorts by passing in another function as an input. For your final project, you’ll read in simulated social media data from a file, compute sentiment scores, and write out .csv files. It covers chapters 10-16 of the textbook “Fundamentals of Python Programming”.
+This course introduces the dictionary data structure and user-defined functions. You’ll learn about local and global variables, optional and keyword parameter-passing, named functions and lambda expressions. You’ll also learn about Python’s sorted function and how to control the order in which it sorts by passing in another function as an input. For your final project, you’ll read in simulated social media data from a file, compute sentiment scores, and write out .csv files. 
 
 This is a follow-up to the "Python Basics" course (course 1 of the Python 3 Programming Specialization), and it is the second of five courses in the specialization.
 
