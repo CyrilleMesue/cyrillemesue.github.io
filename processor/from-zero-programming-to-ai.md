@@ -103,7 +103,7 @@ This course provides a broad introduction to machine learning, datamining, and s
 
 In this course, Andrew will teach you how to answer the whats, whys and hows of machine learning and by the end of teh course, you will be equipped with the basic knowledge and skills to dive into AI research. 
 
-< Note: The programming exercises in this course are either in Matlab or Octave programming languages. Don't worry, you can take the two-hour [MATLAB Onramp course](https://www.mathworks.com/learn/tutorials/matlab-onramp.html) at Mathworks and it will be enough to do the programming exercises. 
+> **Note:** The programming exercises in this course are either in Matlab or Octave programming languages. Don't worry, you can take the two-hour [MATLAB Onramp course](https://www.mathworks.com/learn/tutorials/matlab-onramp.html) at Mathworks and it will be enough to do the programming exercises. 
 
 
 
