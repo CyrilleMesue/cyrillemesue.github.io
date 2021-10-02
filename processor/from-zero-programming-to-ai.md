@@ -43,7 +43,7 @@ Before you get discouraged, I have some good news for you. You can take all thos
 
 To apply for financial aid for a Coursera course, follow the tutorial by clicking on [tutorial to apply for financial aid for a coursera course]().
 
-1.**[Python 3 Programming Coursera Specialization by the University of Michigan]**(https://www.coursera.org/specializations/python-3-programming?).   
+1.**[Python 3 Programming Coursera Specialization by the University of Michigan](https://www.coursera.org/specializations/python-3-programming?).**   
 
 This was the first course I tooked on Coursera that made me fall in love with the platform. My love for online learning and the coursera platform started growing right from the first video within this course that I watched about the month of May 2020. I completed the first course in less than 2 weeks and I got a certificate of completion that motivated me to keep going until I completed the specialization. 
 
@@ -53,7 +53,7 @@ While searching for python courses on Coursera, you might come accross the speci
 
 This specialization is made of five(5) courses properly arranged to help students progress in python from zero to intermediate/mastery. Here is the order in which I took the courses and I find it very useful: Python Basics; Python functions, files and dictionaries; Data collection and processing with python ; Python classes and inheritance; and Python project: pillow, tesseract and open cv 
 
-1.1. **[Python Basics]**(https://www.coursera.org/learn/python-basics?specialization=python-3-programming)   
+1.1. **[Python Basics](https://www.coursera.org/learn/python-basics?specialization=python-3-programming)**   
 
 ![image tooltip here](/images/python_basics_shot.png)
 
@@ -61,20 +61,20 @@ In this course, you will learn the basics of python3 programming, including how 
 
 This is the first of five courses in the Python 3 Programming Specialization.
 
-1.2. **[Python Functions, Files, and Dictionaries]**(https://www.coursera.org/learn/python-functions-files-dictionaries?specialization=python-3-programming)     
+1.2. **[Python Functions, Files, and Dictionaries](https://www.coursera.org/learn/python-functions-files-dictionaries?specialization=python-3-programming)**     
 
 ![image tooltip here](/images/python_functions.png)
 
 In this course, you will a new data structure called dictionaries. You will learn how to use dictionaries to organize your programs. You will also learn how to define your own custom functions in python, lambda expressions, as well as to python built-in sorted function. Finally, you will read in simulated social media data from a file, compute sentiment scores, and write out .csv files as your final project. Make sure to complete the project as it will make it easier to understand the next course. 
 This course is the second of the five courses of the specialization. Some concept may seem very basic but are very crucial for the creativity of a datascientist. there, I recommend completing all exercises on your own without looking up answers from any cheat sheet.   
 
-1.3. **[Data Collection and Processing with Python]**(https://www.coursera.org/learn/data-collection-processing-python?specialization=python-3-programming)  
+1.3. **[Data Collection and Processing with Python](https://www.coursera.org/learn/data-collection-processing-python?specialization=python-3-programming)**  
 
 ![image tooltip here](/images/data_collection.png)
 
 This course teaches you to fetch and process data from services on the Internet. It covers Python list comprehensions and provides opportunities to practice extracting from and processing deeply nested data. You'll also learn how to use the Python requests module to interact with REST APIs and what to look for in documentation of those APIs. For the final project, you will construct a “tag recommender” for the flickr photo sharing site.
 
-1.4 **[Python Classes and Inheritance]**(https://www.coursera.org/learn/python-classes-inheritance?specialization=python-3-programming)   
+1.4 **[Python Classes and Inheritance](https://www.coursera.org/learn/python-classes-inheritance?specialization=python-3-programming)**   
 
 ![image tooltip here](/images/python_classes.png)
 
@@ -82,7 +82,7 @@ In this course, you will learn a new concept of programming called object orient
 
 At this point, things might start getting very difficult. Don't give up. Coursera has a discussion forum for every course where you can ask your questions, make use of it as much as possible.
 
-1.5 **[Python Project: pillow, tesseract, and opencv]**(https://www.coursera.org/learn/python-project?specialization=python-3-programming)  
+1.5 **[Python Project: pillow, tesseract, and opencv](https://www.coursera.org/learn/python-project?specialization=python-3-programming)**  
 
 ![image tooltip here](/images/python_project.png)
 
@@ -91,7 +91,7 @@ This course will walk you through a hands-on project suitable for a portfolio. Y
 For me this course was the hardest and it was hard up to a point where I had to abandon it, come back, bandon it again and and so on. If you experience the same, feel free to release yourslef from the project for a while, take other courses and come back to finish it. This works for me often, and, it might work for you as well. 
 
 
-2. **[Machine Learning free Coursera course by Standford Online]**(https://www.coursera.org/learn/machine-learning?specialization=python-3-programming)
+2. **[Machine Learning free Coursera course by Standford Online](https://www.coursera.org/learn/machine-learning?specialization=python-3-programming)**
 
 ![image tooltip here](/images/machine_learning.png)
 
@@ -105,7 +105,7 @@ In this course, Andrew will teach you how to answer the whats, whys and hows of 
 
 > **Note:** The programming exercises in this course are either in Matlab or Octave programming languages. Don't worry, you can take the two-hour [MATLAB Onramp course](https://www.mathworks.com/learn/tutorials/matlab-onramp.html) at Mathworks and it will be enough to do the programming exercises. 
 
-3. **[Deep learning Coursera Specialization by Deeplearning.ai]**(https://www.coursera.org/specializations/deep-learning?specialization=python-3-programming)  
+3. **[Deep learning Coursera Specialization by Deeplearning.ai](https://www.coursera.org/specializations/deep-learning?specialization=python-3-programming)**  
 
 ![image tooltip here](/images/deeplearn.png)
 
@@ -117,7 +117,7 @@ In this Specialization, you will build and train neural network architectures su
 
 AI is transforming many industries. The Deep Learning Specialization provides a pathway for you to take the definitive step in the world of AI by helping you gain the knowledge and skills to level up your career. Along the way, you will also get career advice from deep learning experts from industry and academia."
 
-3.1 **[Neural Networks and Deep Learning]**(https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)  
+3.1 **[Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)**  
 
 ![image tooltip here](/images/neural_nets.png)
 
@@ -127,7 +127,7 @@ This is the first course of the deeplearning specialization and you will study t
 
 "By the end, you will be familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications."
 
-3.2 **[Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization]**(https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning) 
+3.2 **[Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)** 
 
 ![image tooltip here](/images/tuning.png)
 
@@ -135,7 +135,7 @@ Here comes again another course with lots of familiar concept. You will learn di
 
 "By the end, you will learn the best practices to train and develop test sets and analyze bias/variance for building deep learning applications; be able to use standard neural network techniques such as initialization, L2 and dropout regularization, hyperparameter tuning, batch normalization, and gradient checking; implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence; and implement a neural network in TensorFlow."
 
-3.3 **[Structuring Machine Learning Projects]**(Structuring Machine Learning Projects) 
+3.3 **[Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)**  
 
 ![image tooltip here](/images/deep3.png)
 
@@ -145,7 +145,7 @@ By the end, you will be able to diagnose errors in a machine learning system; pr
 
 This is also a standalone course for learners who have basic machine learning knowledge. This course draws on Andrew Ng’s experience building and shipping many deep learning products. If you aspire to become a technical leader who can set the direction for an AI team, this course provides the "industry experience" that you might otherwise get only after years of ML work experience."
 
-3.4 **[Convolutional Neural Networks]**(https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)  
+3.4 **[Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)**  
 
 ![image tooltip here](/images/conv_nets.png)
 
@@ -157,7 +157,7 @@ A lot of people say that what distinguishes machine learning from deeplearning i
 
 If you just wanna apply AI in your domain and don't want to go deep into AI research, then this is the right time to become abstract about AI. You will be introduced to deeper and deeper networks such as residual nets(Resnet5), densenets, alexnets, and so on.  
 
-3.5 **[Sequence Models]**(https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning)
+3.5 **[Sequence Models](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning)**
 
 ![image tooltip here](/images/seq_models.png)
 
@@ -167,7 +167,7 @@ By the end, you will be able to build and train Recurrent Neural Networks (RNNs)
 
 After completing this course, which is the last of the deeplearning specialization, you must be filled with machine learning and deeplearning knowledge and are hungry to apply the concepts in the real world. Having hunger to test your newly acquired skills is a very good thing beacuse indeed the theory is useless without practice. At this point, having a real world project to work on will really help to solidify your skills in AI. I will provide you with information with some projects you can start with at 5., but first, if you wanna immediately corelate your deeplearning knowledge to the medical domain, the AI for medicine specialization is a good startup for you.
 
-4. **[AI for Medicine Coursera Specialization by Deeplearning.ai]**(https://www.coursera.org/specializations/ai-for-medicine)
+4. **[AI for Medicine Coursera Specialization by Deeplearning.ai](https://www.coursera.org/specializations/ai-for-medicine)**
 
 ![image tooltip here](/images/aiformed.png)
 
@@ -179,7 +179,7 @@ This program will give you practical experience in applying cutting-edge machine
 
 If you take the deeplearning specialization very seriously, this specialization will be easier to complete. 
 
-4.1 **[AI for Medical Diagnosis]**(https://www.coursera.org/learn/ai-for-medical-diagnosis?specialization=ai-for-medicine)  
+4.1 **[AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis?specialization=ai-for-medicine)**  
 
 ![image tooltip here](/images/ai4m1.png)
 
@@ -187,13 +187,13 @@ If you take the deeplearning specialization very seriously, this specialization 
 
 This course and the other two courses will be instructed by Pranav Rajpurkar, a resaercher in the Department of Biomedical Informatics at Harvard University. You will learn how to build and train models for image classification and segmentation. Then, you will apply the concept on chest-xray images.  
 
-4.2 **[AI for Medical Prognosis]**(https://www.coursera.org/learn/ai-for-medical-prognosis?specialization=ai-for-medicine)
+4.2 **[AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis?specialization=ai-for-medicine)**
 
 ![image tooltip here](/images/ai4m2.png) 
 
 "Machine learning is a powerful tool for prognosis, a branch of medicine that specializes in predicting the future health of patients. In this second course, you’ll walk through multiple examples of prognostic tasks. You’ll then use decision trees to model non-linear relationships, which are commonly observed in medical data, and apply them to predicting mortality rates more accurately. Finally, you’ll learn how to handle missing data, a key real-world challenge."  
 
-4.3 **[AI For Medical Treatment]**(https://www.coursera.org/learn/ai-for-medical-treatment?specialization=ai-for-medicine)
+4.3 **[AI For Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment?specialization=ai-for-medicine)**
 
 ![image tooltip here](/images/ai4m3.png) 
 
@@ -202,5 +202,20 @@ This course and the other two courses will be instructed by Pranav Rajpurkar, a 
 In this course, you will be a able to build a machine learning model to help decide which treatment method will work best for a patient by making used of the hospital's historical data.  
 
 5. **Work on a real world AI based project** 
+
+#####![image tooltip here](/images/ai4m3.png) 
+
+Here comes the hard part, the data you encounter so far in the courses listed above is well organized, and the problems are also defined. Real world data is raw and some times you got to figure out what the problem is before even attempting to find a solution. 
+
+Fortunately for me, just before I completed the deeplearning specialization, I registered for an AI in healthcare competition where I could access real world raw data and exercise my newly acquired skills. The project was about the classification and segmentation of stroke using a deeplearning model. Over 250 teams regitered for the competition, and my team, which consisted of two members, won the 16th position at the finals. 
+
+You might be fortunate to find a similar project for yourself, then that will be great. However if you can't find a remote real world project, then I am more that happy to introduce you to the kaggle projects. Kaggle is an online platform that hosts many artificial intelligence anf computer vision projects every year. Previous projects can and on going projects can be found on the kaggle competitions page [here]()
+
+If you get confused on which project to start with, visit the article by Khushbu Shah titled [20 Machine Learning Projects That Will Get You Hired in 2021](https://www.glassdoor.com/blog/guide/projects-on-resume/). 
+
+I hope this article was useful. Feel free to comment and share.
+
+Also, if there are resourses you thing would make a great add to this article, feel free to pour the links in the comment section below.  
+
 
 
