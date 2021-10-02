@@ -209,9 +209,9 @@ Here comes the hard part, the data you encounter so far in the courses listed ab
 
 Fortunately for me, just before I completed the deeplearning specialization, I registered for an AI in healthcare competition where I could access real world raw data and exercise my newly acquired skills. The project was about the classification and segmentation of stroke using a deeplearning model. Over 250 teams regitered for the competition, and my team, which consisted of two members, won the 16th position at the finals. 
 
-You might be fortunate to find a similar project for yourself, then that will be great. However if you can't find a remote real world project, then I am more that happy to introduce you to the kaggle projects. Kaggle is an online platform that hosts many artificial intelligence anf computer vision projects every year. Previous projects can and on going projects can be found on the kaggle competitions page [here]()
+You might be fortunate to find a similar project for yourself, then that will be great. However if you can't find a remote real world project, then I am more that happy to introduce you to the kaggle projects. Kaggle is an online platform that hosts many artificial intelligence anf computer vision projects every year. Previous projects can and on going projects can be found on the kaggle competitions page [here](https://www.kaggle.com/competitions)
 
-If you get confused on which project to start with, visit the article by Khushbu Shah titled [20 Machine Learning Projects That Will Get You Hired in 2021](https://www.glassdoor.com/blog/guide/projects-on-resume/). 
+If you get confused on which project to start with, visit the article by Khushbu Shah titled [20 Machine Learning Projects That Will Get You Hired in 2021](https://medium.com/projectpro/20-machine-learning-projects-that-will-get-you-hired-in-2021-a89473f2d2c7). 
 
 I hope this article was useful. Feel free to comment and share.
 
