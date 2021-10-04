@@ -1,6 +1,6 @@
 --- 
 layout: single
-title: "How to Apply for Financial Aid for a Coursera Course, Speecialization or Professional Certificate"
+title: "How to Apply for Financial Aid for a Coursera Course, Specialization or Professional Certificate"
 author_profile: true
 date: 2021-10-04
 comments: true
