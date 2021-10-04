@@ -1,6 +1,6 @@
 --- 
 layout: single
-title: "How to obtain multiple file paths from a folder for use in a python program"
+title: "How to Obtain Multiple File Paths from a Folder for Use in a Python Program"
 date: 2021-09-01
 comments: true
 show_date: true
