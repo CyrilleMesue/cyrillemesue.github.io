@@ -34,7 +34,7 @@ This competition was very competitive because over 250 teams registered and ther
 ![image tooltip here](/images/post1.jpeg)
 
 ## Current Online Course
-[![IMAGE_ALT](https://img.youtube.com/vi/UmX4kyB2wfg/0.jpg)](https://www.youtube.com/watch?v=7AS4mW4Qwl0&list=PL40534E9D6A5A2DE9&index=3&ab_channel=WeizmannInstituteofScience)
+[![IMAGE_ALT](https://img.youtube.com/vi/7AS4mW4Qwl0/0.jpg)](https://www.youtube.com/watch?v=7AS4mW4Qwl0&list=PL40534E9D6A5A2DE9&index=3&ab_channel=WeizmannInstituteofScience)
 
 ## Current Book
 
