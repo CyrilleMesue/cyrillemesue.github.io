@@ -37,11 +37,11 @@ Type any topic on the search bar and enter (or click saerch) and all courses rel
 
 ![image tooltip here](/images/coursera_first_search.png)
 
-I will select the Google Project Management professional certificate. This will take you to the page where you can find all the courses included in the professional certficate. 
+I will select the **Google Project Management** professional certificate. This will take you to the page where you can find all the courses included in the professional certficate. 
 
 > **Note:** Professional certificates and specializations contain at least three courses and you will need to select each course and apply for financial aid individaully. Click on every course, one at a time and apply for Financial aid individually. 
 
-To select the different courses in a specialization or professional certificate, click on the Courses tab on the specialization page, or scroll down the page until you see all the courses
+To select the different courses in a specialization or professional certificate, click on the **Courses** tab on the specialization page, or scroll down the page until you see all the courses
 
 ![image tooltip here](/images/coursera_select_course.png)
 
@@ -67,9 +67,11 @@ Incase you don't see the "Financial aid available" phrase, just refresh your bro
 ![image tooltip here](/images/fill.png)
 
 * Fill in the information truthfully. Don't worry, this does not affect whether you get a financial aid or not. You will be asked to write two essays of minimum 150 words each. Just speak your mind. Using big grammar or sophisticated stories does not determine your chance of get a financial aid approval. 
-* When you are done answering the questions, click on **submit application**. You will get a pupop message saying the results of your application will be out in 15 days. Congrats, you will be awarded a coursera financial aid in 15 days. 
+* When you are done answering the questions, click on **submit application**. You will get a pupop message saying the results of your application will be out in 15 days. 
 
-Now that you know how to apply for finanial aid on coursera, the only thing that can stop you from taking an unlimited number of courses on coursera and building up your personal skills is you ,becuase once you apply, you will surely get a good reply. You can apply for many courses at the same time and all will be approved. 
+Congratulations, you will be awarded a coursera financial aid in 15 days. 
+
+Now that you know how to apply for finanial aid on coursera, the only thing stopping you from taking an unlimited number of courses on coursera and building up your personal skills is you ,becuase once you apply, you will surely get a good reply. You can apply for many courses at the same time and all will be approved. 
 
 I hope this article was usedful, and I wish you luck in your new endeavor to start learning online. 
 
@@ -85,5 +87,4 @@ If you want to explore more learning platforms, you can visit the following plat
 * [Alison Courses](https://alison.com/)
 * [Youtube](https://www.youtube.com/)
 
-
-
+Also, if you know other platforms that offer opportunities like Coursera, please feel free to post the links in the comment section below.  
