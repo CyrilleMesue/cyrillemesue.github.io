@@ -25,10 +25,10 @@ In this article, I will show you the simple steps for applying for financial aid
 
 Without wasting any time, let's hit the nail on its head.
 
-1. **Open a Coursera account**  
+1. **Open a Coursera Account**  
 To benefit from any course on Coursera, users will have to register with an active email address or login with their Google account on [Coursera.org](https://www.coursera.org/). If you use the former, make sure you use your correct information and a password you can remember. Also, if you login to Coursera with your Google account, make sure to edit your profile so that your information(especially your full name) correspond. This is to ensure that your correct information appear on your coursera certificates. 
 
-2. **Select the course**  
+2. **Select the Course**  
 Once you create a coursera account and login, you will be directed to the coursera course catalog page. 
 
 ![image tooltip here](/images/coursera_catalog.png)
@@ -49,16 +49,16 @@ For independent courses,  the layout looks like the image below.
 
 ![image tooltip here](/images/financial_aid_available.png)
 
-As you can see on the images as indicated by the red arrow, there is a clickable phrase, "Financial aid available". You should click on it to continue your financial aid application.  
+As you can see on the image as indicated by the red arrow, there is a clickable phrase, "Financial aid available". You should click on it to continue your financial aid application.  
 
-Incase you don't see the "Financial aid available" phrase, refresh your browser and wait for a few seconds. Some times the "financial aid available phrase" takes time to appear. Follow the following steps to complete your financial aid application.  
+Incase you don't see the "Financial aid available" phrase, just refresh your browser and wait for a few seconds. Some times the "Financial aid available" phrase takes time to appear. Follow the following steps to complete your financial aid application.  
 
-> The Enroll for free option is open to any one who doesn't want  a financial aid. You can explore it it on your own, but don't go for a free trail after you have applied for financial aid else your application will be cancelled. 
+> **Note:** The **"Enroll for free"** option is open to any one who doesn't want  a financial aid. You can explore it it on your own, but don't go for a free trial after you have applied for financial aid else your application will be cancelled. 
 
-3. Apply for Financial aid for a course
+3. **Apply for Financial Aid for a Course**
 
-* After clicking on the "financial aid available" phrase a popup window will appear, click on **continue to the application** . 
-* In the next page just tick all tick all options and click continue. 
+* After clicking on the "financial aid available" phrase, a popup window will appear, click on **continue to the application** . 
+* In the next page just tick all options and click **continue**. 
 
 ![image tooltip here](/images/confirm.png)
 
@@ -66,14 +66,14 @@ Incase you don't see the "Financial aid available" phrase, refresh your browser 
 
 ![image tooltip here](/images/fill.png)
 
-* Fill in the information truthfully. Don't worry this does not affect whether you get a financial aid or not. You will be asked you write two essays of minimum 150 words each. just speak your mind, using big grammar or sophisticated stories does not determine your chance of financial aid approval. 
-* When you are done answering the questions, click on submit application. You will get a pupop message saying the results of your application will be out in 15 days. Congrats, you will be a coursera financial aid in 15 days. 
+* Fill in the information truthfully. Don't worry, this does not affect whether you get a financial aid or not. You will be asked to write two essays of minimum 150 words each. Just speak your mind. Using big grammar or sophisticated stories does not determine your chance of get a financial aid approval. 
+* When you are done answering the questions, click on **submit application**. You will get a pupop message saying the results of your application will be out in 15 days. Congrats, you will be awarded a coursera financial aid in 15 days. 
 
-Now that you know how to apply for finanial aid on coursera, the only thing that cn stop you from taking an unlimited number of courses on coursera building up your personal skills is you ,becuase once you apply, you will surely get a good reply. You can apply for many courses at the same time and all will be approved. 
+Now that you know how to apply for finanial aid on coursera, the only thing that can stop you from taking an unlimited number of courses on coursera and building up your personal skills is you ,becuase once you apply, you will surely get a good reply. You can apply for many courses at the same time and all will be approved. 
 
 I hope this article was usedful, and I wish you luck in your new endeavor to start learning online. 
 
-Do you want to explore more learning platforms? Visit:
+If you want to explore more learning platforms, you can visit the following platforms by clicking on their names:
 
 * [Linkedin Learning](https://learning.linkedin.com/)
 * [Udemy](https://www.udemy.com/)
