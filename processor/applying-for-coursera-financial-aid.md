@@ -19,17 +19,24 @@ Once you create a coursera account and login, you will be directed to the course
 
 Type any topic on the search bar and all courses related to your topic will appear. For instance, when I type management, the following pages appears: 
 
-![image tooltip here](/images/coursera_catalog.png)
+![image tooltip here](/images/coursera_first_search.png)
 
-Visit the Coursera course catalog and type any course nane on the search bar. All courses related to your search criteria will appear. Click on the course and continue. 
+I will select the Google Project Management professional certificate. This will take you to the page where you can find all the courses included in the professional certficate. 
 
-For independent courses, the layout looks like the image below. As you can see on the images as indicated by the red arrow, the is a clickable phrase, Financial aid available. You should click on it to continue your financial aid application.  
+> Note that professional certificates and specializations contain at least three courses and you will need to select each course and apply for financial aid individaully. Click on every course, one at a time and apply for Financial aid individually. 
 
-For specializations and Professional Certificates, the layout looks like this:
+To select the different courses in a specialization or professional certificate, click on the Courses tab on the specialization page, or scroll down the page until you see all the courses
 
-To gain financial aid for an entire specialization or professional certificate, click on the Courses tab on the specialization page, or scroll down the page until you see all the courses. Click on every course, one at a time and apply for Financial aid individually. 
+![image tooltip here](/images/coursera_select_course.png)
+
+For independent courses,  the layout looks like the image below. As you can see on the images as indicated by the red arrow, the is a clickable phrase, Financial aid available. You should click on it to continue your financial aid application.  
+
+![image tooltip here](/images/financial_aid_available.png)
 
 Incase you don't see the financial aid available phrase, refresh your browser and wait for a few seconds. Some times the "financial aid available phrase" takes time to appear. Follow the following steps to complete your financial aid application.  
+
+> The Enroll for free option is open to any one who doesn't want  a financial aid. You can explore it it on your own, but don't go for a free trail after you have applied for financial aid else your application will be cancelled. 
+
 
 3. Apply for Financial aid for a course
 
