@@ -33,6 +33,13 @@ This competition was very competitive because over 250 teams registered and ther
 
 ![image tooltip here](/images/post1.jpeg)
 
+## Current Online Course
+
+[![Alternate Text]({image-url})]({https://www.youtube.com/playlist?list=PL40534E9D6A5A2DE9} "Link Title")
+
+## Current Book
+
+
 
 
 
