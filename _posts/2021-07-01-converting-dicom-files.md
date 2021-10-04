@@ -1,6 +1,6 @@
 --- 
 layout: single
-title: "How to convert Many Dicom Files to PNG"
+title: "How to Convert Many Dicom Files to PNG"
 author_profile: true
 date: 2021-09-01
 comments: true
