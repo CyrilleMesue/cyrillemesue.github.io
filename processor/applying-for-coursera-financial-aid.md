@@ -44,7 +44,11 @@ Incase you don't see the financial aid available phrase, refresh your browser an
 
 ![image tooltip here](/images/confirm.png)
 
-* Next, you will be directed to the application page. Fill in the information truthfully. Don't worry this does not affect whether you get a financial aid or not. You will be asked you write two essays of minimum 150 words each. just speak your mind, using big grammar or sophisticated stories does not determine your chance of financial aid approval. 
+* Next, you will be directed to the application page. 
+
+![image tooltip here](/images/fill.png)
+
+* Fill in the information truthfully. Don't worry this does not affect whether you get a financial aid or not. You will be asked you write two essays of minimum 150 words each. just speak your mind, using big grammar or sophisticated stories does not determine your chance of financial aid approval. 
 * When you are done answering the questions, click on submit application. You will get a pupop message saying the results of your application will be out in 15 days. Congrats, you will be a coursera financial aid in 15 days. 
 
 Now that you know how to apply for finanial aid on coursera, the only thing that cn stop you from taking an unlimited number of courses on coursera building up your personal skills is you ,becuase once you apply, you will surely get a good reply. You can apply for many courses at the same time and all will be approved. 
