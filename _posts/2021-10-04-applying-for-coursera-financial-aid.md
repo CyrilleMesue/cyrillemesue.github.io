@@ -28,7 +28,7 @@ Without wasting any time, let's hit the nail on its head.
 ## 1. Open a Coursera Account  
 To benefit from any course on Coursera, users will have to register with an active email address or login with their Google account on [Coursera.org](https://www.coursera.org/). If you use the former, make sure you use your correct information and a password you can remember. Also, if you login to Coursera with your Google account, make sure to edit your profile so that your information(especially your full name) correspond. This is to ensure that your correct information appear on your coursera certificates. 
 
-## 2. Select the Course  
+## 2. Select a Course  
 Once you create a coursera account and login, you will be directed to the coursera course catalog page. 
 
 ![image tooltip here](/images/coursera_catalog.png)
@@ -55,7 +55,7 @@ Incase you don't see the "Financial aid available" phrase, just refresh your bro
 
 > **Note:** The **"Enroll for free"** option is open to any one who doesn't want  a financial aid. You can explore it it on your own, but don't go for a free trial after you have applied for financial aid else your application will be cancelled. 
 
-## 3. Apply for Financial Aid for a Course
+## 3. Apply for Financial Aid
 
 * After clicking on the "financial aid available" phrase, a popup window will appear, click on **continue to the application** . 
 * In the next page just tick all options and click **continue**. 
