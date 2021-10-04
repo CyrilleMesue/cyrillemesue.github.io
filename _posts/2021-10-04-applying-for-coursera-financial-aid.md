@@ -33,7 +33,7 @@ Once you create a coursera account and login, you will be directed to the course
 
 ![image tooltip here](/images/coursera_catalog.png)
 
-Type any topic on the search bar and all courses related to your topic will appear. For instance, when I type management, the following pages appears: 
+Type any topic on the search bar and enter (or click saerch) and all courses related to your topic will appear. For instance, when I search for management, the following pages appears: 
 
 ![image tooltip here](/images/coursera_first_search.png)
 
