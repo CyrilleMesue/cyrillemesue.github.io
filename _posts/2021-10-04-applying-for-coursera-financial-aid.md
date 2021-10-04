@@ -17,7 +17,7 @@ header:
       url: "https://cyrillemesue.github.io/applying-for-coursera-financial-aid/"
 --- 
 
-Coursera is so far the most successful online learning platform. It has helped millions of students and workers, to groom their skills in many areas, through its high quality courses that are provided by many different prestigious universities. Coursera also offers financial aid to students who cannot afford to pay for a course or course certificate. 
+Coursera is so far the most successful online learning platform. It has helped millions of students and workers, to groom their skills in many areas, through its high quality courses ranging from datascience, business, computer science, IT, languages, graphic design, public health and so on. These courses are offered by many different professors and researchers from many of the prestigious universities known today. Coursera also offers financial aid to students who cannot afford to pay for a course or course certificate. 
 
 In this article, I will show you the simple steps for applying for financial aid on Coursera. 
 
