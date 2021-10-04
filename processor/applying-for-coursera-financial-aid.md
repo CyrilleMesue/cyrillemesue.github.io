@@ -37,6 +37,29 @@ Incase you don't see the financial aid available phrase, refresh your browser an
 
 > The Enroll for free option is open to any one who doesn't want  a financial aid. You can explore it it on your own, but don't go for a free trail after you have applied for financial aid else your application will be cancelled. 
 
-
 3. Apply for Financial aid for a course
+
+* After clicking on the "financial aid available" phrase a popup window will appear, click on **continue to the application** . 
+* In the next page just tick all tick all options and click continue. 
+
+![image tooltip here](/images/confirm.png)
+
+* Next, you will be directed to the application page. Fill in the information truthfully. Don't worry this does not affect whether you get a financial aid or not. You will be asked you write two essays of minimum 150 words each. just speak your mind, using big grammar or sophisticated stories does not determine your chance of financial aid approval. 
+* When you are done answering the questions, click on submit application. You will get a pupop message saying the results of your application will be out in 15 days. Congrats, you will be a coursera financial aid in 15 days. 
+
+Now that you know how to apply for finanial aid on coursera, the only thing that cn stop you from taking an unlimited number of courses on coursera building up your personal skills is you ,becuase once you apply, you will surely get a good reply. You can apply for many courses at the same time and all will be approved. 
+
+I hope this article was usedful, and I wish you luck in your new endeavor to start learning online. 
+
+Do you want to explore more learning platforms? Visit:
+
+* [Linkedin Learning](https://learning.linkedin.com/)
+* [Udemy](https://www.udemy.com/)
+* [MIT OpenCourseWare](https://ocw.mit.edu/)
+* [Edx](https://www.edx.org/)
+* [Udacity](https://www.udacity.com/)
+* [CodeAcademy](https://www.codecademy.com/)
+* [Datacamp](https://www.datacamp.com/)
+* [Alison Courses](https://alison.com/)
+
 
