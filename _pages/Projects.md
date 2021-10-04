@@ -12,7 +12,7 @@ Below are some of my most recent projects.
 ## Project 01 | Teknofest AI in Healthcare Competition  
 MARCH 2021- SEPTEMBER 2021  
 
-![image tooltip here](/images/project01.jpeg)
+![image tooltip here](/images/project01.jpg)
 
 This project was part of the teknofest artificial intelligence (AI) for healthcare 2021 competition. And I worked under the two man team, AI KNIGHTS, with [Beltus Nkwawir](https://www.linkedin.com/in/beltus/), a computer science master's student at Istanbul Technical University, as the team leader. 
 
