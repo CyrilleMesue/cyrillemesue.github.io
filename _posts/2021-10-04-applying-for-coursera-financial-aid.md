@@ -19,9 +19,9 @@ header:
 
 Coursera is so far the most successful online learning platform. It has helped millions of students and workers, to groom their skills in many areas, through its high quality courses ranging from datascience, business, computer science, IT, languages, graphic design, public health and so on. These courses are offered by many different professors and researchers from many of the prestigious universities known today. Coursera also offers financial aid to students who cannot afford to pay for a course or course certificate. 
 
-In this article, I will show you the simple steps for applying for financial aid on Coursera. 
+In this article, I will show you the simple steps in applying for financial aid on Coursera. 
 
-> **Note:** Coursera offers financial aid for courses, specializations and professional certificates only. Guided projects and Master track certificates fees are not covered with a financial aid application. 
+> **Note:** Coursera offers financial aid for courses, specializations and professional certificates only. Guided projects, Master track certificates fees, as well as tuition fees for degrees are not covered with a financial aid application. 
 
 Without wasting any time, let's hit the nail on its head.
 
@@ -49,9 +49,10 @@ For independent courses,  the layout looks like the image below.
 
 ![image tooltip here](/images/financial_aid_available.png)
 
-As you can see on the image as indicated by the red arrow, there is a clickable phrase, "Financial aid available". You should click on it to continue your financial aid application.  
+As you can see on the image as indicated by the red arrow, there is a clickable phrase, "Financial aid available", click on it to continue your financial aid application.   
+Incase you don't see the "Financial aid available" phrase, just refresh your browser and wait for a few seconds. Some times the "Financial aid available" phrase takes time to appear.   
 
-Incase you don't see the "Financial aid available" phrase, just refresh your browser and wait for a few seconds. Some times the "Financial aid available" phrase takes time to appear. Follow the following steps to complete your financial aid application.  
+Follow the following steps to complete your financial aid application.  
 
 > **Note:** The **"Enroll for free"** option is open to any one who doesn't want  a financial aid. You can explore it on your own, but don't go for a free trial after you have applied for financial aid else your application will be cancelled. 
 
