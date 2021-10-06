@@ -73,7 +73,7 @@ Follow the following steps to complete your financial aid application.
 
 Congratulations, you will be awarded a coursera financial aid in 15 days. 
 
-Now that you know how to apply for finanial aid on coursera, the only thing stopping you from having access to an unlimited number of courses on coursera is you ,becuase once you apply, you will surely get an approval. You can apply for many courses at the same time and all will be approved. 
+Now that you know how to apply for finanial aid on coursera, the only thing stopping you from having access to an unlimited number of courses on coursera is you, becuase once you apply, you will surely get an approval. You can apply for many courses at the same time and all will be approved. 
 
 I hope this article was usedful, and I wish you luck in your new endeavor to start learning online. 
 
