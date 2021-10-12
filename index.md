@@ -29,7 +29,7 @@ We recently participated in an international competition known as Teknofest AI f
 
 ![image tooltip here](/images/post3_2.jpeg)
 
-This competition was very competitive because over 250 teams registered and there were three elimination phases. However, our team made it to the finals and was ranked number 16 out of 53 teams that made it to the finals. To learn more about the project , click [here](https://cyrillemesue.github.io/Projects/).   
+This competition was very competitive because 229 teams registered and there were three elimination phases. However, our team made it to the finals and was ranked number 16 out of 53 teams that made it to the finals. To learn more about the project , click [here](https://cyrillemesue.github.io/Projects/).   
 
 ![image tooltip here](/images/post1.jpeg)
 
