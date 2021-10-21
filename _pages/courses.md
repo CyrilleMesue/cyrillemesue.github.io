@@ -65,20 +65,16 @@ _Apart from taking courses from the university, I felt the need to expand my kno
 You can visit the Course website by clicking on the Course.
 
 ## MOOC Courses  
-### Biomedical Courses   
+### Life Science Courses   
   * [The Science of Stem Cells](https://www.coursera.org/learn/stem-cells?)
   * [COVID-19: What You Need to Know (CME Eligible)](https://www.coursera.org/learn/covid-19-what-you-need-to-know?page=2&index=prod_all_products_term_optimization)
   * [Mind Control: Managing Your Mental Health During COVID-19](https://www.coursera.org/learn/manage-health-covid-19)
   * [COVID-19 Contact Tracing](https://www.coursera.org/learn/covid-19-contact-tracing)
-  * [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis?specialization=ai-for-medicine)
-  * [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis)
-  * [AI For Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment)
   * [Introduction to the Biology of Cancer](https://www.coursera.org/learn/cancer#syllabus)
   * [Understanding Cancer Metastasis](https://www.coursera.org/learn/cancer-metastasis?)
   * [Introduction to Systems Biology Youtube course by Uri Alon](https://www.youtube.com/playlist?list=PL40534E9D6A5A2DE9) 
   * [An Introduction to Computational Drug Discovery short youtube course by Prof Chanin Nantasenamat on Data Professor channel](https://www.youtube.com/watch?v=RL25hgfLd8Q&list=PLtqF5YXg7GLlQJUv9XJ3RWdd5VYGwBHrP&index=28&t=100s)
  
-  
 ### Programming Courses  
   * [Python Basics](https://www.coursera.org/learn/python-basics?specialization=python-3-programming)
   * [Python Functions, Files, and Dictionaries](https://www.coursera.org/learn/python-functions-files-dictionaries?specialization=python-3-programming)
@@ -86,19 +82,21 @@ You can visit the Course website by clicking on the Course.
   * [Python Classes and Inheritance](https://www.coursera.org/learn/python-classes-inheritance?specialization=python-3-programming)
   * [Programming Foundations with JavaScript, HTML and CSS](https://www.coursera.org/learn/duke-programming-web?specialization=java-programming)
   * [Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming?specialization=java-programming)
+  * [Excel/VBA for Creative Problem Solving, Part 1](https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-1?specialization=excel-vba-creative-problem-solving)
   * [Introduction to Programming with MATLAB](https://www.coursera.org/learn/matlab?specialization=matlab-programming-engineers-scientists)
-  * [Introduction to Data, Signal, and Image Analysis with MATLAB](https://www.coursera.org/learn/matlab-image-processing)  
-
-### Engineering and AI Courses
-  * [Differential Equations for Engineers](https://www.coursera.org/learn/differential-equations-engineers)
+  * [Introduction to Data, Signal, and Image Analysis with MATLAB](https://www.coursera.org/learn/matlab-image-processing)
+  * [Mastering Programing with MATLAB]()
   * [Machine Learning](https://www.coursera.org/learn/machine-learning?)
   * [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
   * [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
   * [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
-  * [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?)
-  * [Fundamentals of Digital Image and Video Processing](https://www.coursera.org/learn/digital?)
-  
+  * [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?)  
+  * [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis?specialization=ai-for-medicine)
+  * [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis)
+  * [AI For Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment)
+
 ### Other Courses
+  * [Differential Equations for Engineers](https://www.coursera.org/learn/differential-equations-engineers)
   * [Write Professional Emails in English](https://www.coursera.org/learn/professional-emails-english?specialization=improve-english)
   * [Speak English Professionally: In Person, Online & On the Phone](https://www.coursera.org/learn/speak-english-professionally?specialization=improve-english)
   * [Build Your Professional ePortfolio in English](https://www.coursera.org/learn/eportfolio-english?specialization=improve-english)
@@ -107,7 +105,7 @@ You can visit the Course website by clicking on the Course.
   * [Excel Skills for Business: Intermediate I](https://www.coursera.org/learn/excel-intermediate-1?specialization=excel)
   * [Excel Skills for Business: Intermediate II](https://www.coursera.org/learn/excel-intermediate-2?specialization=excel)
   * [Excel Skills for Business: Advanced](https://www.coursera.org/learn/excel-advanced?specialization=excel)
-  * [Excel/VBA for Creative Problem Solving, Part 1](https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-1?specialization=excel-vba-creative-problem-solving)
+  * [Fundamentals of Digital Image and Video Processing](https://www.coursera.org/learn/digital?)
  
  
 I visit many online learning platforms for learning, but Coursera is my prefered. However, you might have a different taste for a particular platform. I prefer Coursera because most of the courses have a video-lecture-to-practice-questions-to-project nature. 
