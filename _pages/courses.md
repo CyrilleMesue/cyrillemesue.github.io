@@ -75,6 +75,8 @@ You can visit the Course website by clicking on the Course.
   * [AI For Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment)
   * [Introduction to the Biology of Cancer](https://www.coursera.org/learn/cancer#syllabus)
   * [Understanding Cancer Metastasis](https://www.coursera.org/learn/cancer-metastasis?)
+  * [Introduction to Systems Biology Youtube course by Uri Alon](https://www.youtube.com/playlist?list=PL40534E9D6A5A2DE9) 
+  * [An Introduction to Computational Drug Discovery short youtube course by Prof Chanin Nantasenamat on Data Professor channel](https://www.youtube.com/watch?v=RL25hgfLd8Q&list=PLtqF5YXg7GLlQJUv9XJ3RWdd5VYGwBHrP&index=28&t=100s)
  
   
 ### Programming Courses  
