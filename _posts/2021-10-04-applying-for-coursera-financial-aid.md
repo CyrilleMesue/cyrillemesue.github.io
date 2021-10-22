@@ -17,7 +17,7 @@ header:
       url: "https://cyrillemesue.github.io/applying-for-coursera-financial-aid/"
 --- 
 
-Coursera is so far the most successful online learning platform. It has helped millions of students and workers, to groom their skills in many areas, through its high quality courses ranging from datascience, business, computer science, IT, languages, graphic design, public health and so on. These courses are offered by many different professors and researchers from many of the prestigious universities known today. Coursera also offers financial aid to students who cannot afford to pay for a course or course certificate. 
+Coursera is so far the most successful online learning platform. It has helped millions of students and workers, to groom their skills in many areas, through its high quality courses ranging from data science, business, computer science, IT, languages, graphic design, public health and so on. These courses are offered by many different professors and researchers from many of the prestigious universities known today. Coursera also offers financial aid to students who cannot afford to pay for a course or course certificate.
 
 In this article, I will show you the simple steps in applying for financial aid on Coursera. 
 
@@ -39,7 +39,7 @@ Type any topic on the search bar and enter (or click search) and all courses rel
 
 I will select the **Google Project Management** professional certificate. This will take you to the page where you can find all the courses included in the professional certficate. 
 
-> **Note:** Professional certificates and specializations contain at least three courses and you will need to select each course and apply for financial aid individaully. Click on every course, one at a time and apply. 
+> **Note:** Professional certificates and specializations contain at least three courses and you will need to select each course and apply for financial aid individually. Click on every course, one at a time and apply. 
 
 To select the different courses in a specialization or professional certificate, click on the **Courses** tab on the specialization page, or scroll down the page until you see all the courses available. 
 
@@ -58,7 +58,7 @@ Follow the following steps to complete your financial aid application.
 
 ## 3. Apply for Financial Aid
 
-* After clicking on the "financial aid available" phrase, a popup window will appear, click on **continue to the application** . 
+* After clicking on the "financial aid available" phrase, a pop up window will appear, click on **continue to the application** . 
 * In the next page just tick all options and click **continue**. 
 
 ![image tooltip here](/images/confirm.png)
@@ -73,9 +73,9 @@ Follow the following steps to complete your financial aid application.
 
 Congratulations, you will be awarded a coursera financial aid in 15 days. 
 
-Now that you know how to apply for finanial aid on coursera, the only thing stopping you from having access to an unlimited number of courses on coursera is you, becuase once you apply, you will surely get an approval. You can apply for many courses at the same time and all will be approved. 
+Now that you know how to apply for financial aid on coursera, the only thing stopping you from having access to an unlimited number of courses on coursera is you, becuase once you apply, you will surely get an approval. You can apply for many courses at the same time and all will be approved. 
 
-I hope this article was usedful, and I wish you luck in your new endeavor to start learning online. 
+I hope this article was useful, and I wish you luck in your new endeavor to start learning online. 
 
 If you want to explore more learning platforms, you can visit the following platforms by clicking on their names:
 
