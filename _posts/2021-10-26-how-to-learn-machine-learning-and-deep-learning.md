@@ -14,7 +14,7 @@ header:
   caption: "Photo credit: [**Kevin Ku on Unsplash**](https://unsplash.com/s/photos/deep-learning)"
   actions : 
     - label: "More Info"
-      url: "https://cyrillemesue.github.io/converting-dicom-files/"
+      url: "https://cyrillemesue.github.io/how-to-learn-machine-learning-and-deep-learning/"
 --- 
 
 Do you want to dive into data science and artificial intelligence (AI) research? Do do you want to apply some AI concepts in your field to boost your productivity? You are probably willing to study all the necessary literature and take several courses but don’t know where to start from? Then, this article is for you.
