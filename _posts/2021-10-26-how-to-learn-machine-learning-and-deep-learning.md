@@ -9,9 +9,9 @@ toc: true
 toc_icon: "cog"
 excerpt: ""
 header:
-  overlay_image: /images/code-01.jpg
+  overlay_image: /images/kevin ku.jpg
   overlay_filter: rgba(155, 150, 160, 0.5)
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: [**Kevin Ku on Unsplash**](https://unsplash.com/s/photos/deep-learning)"
   actions : 
     - label: "More Info"
       url: "https://cyrillemesue.github.io/converting-dicom-files/"
