@@ -9,7 +9,7 @@ toc: true
 toc_icon: "cog"
 excerpt: ""
 header:
-  overlay_image: /images/kevin ku.jpg
+  overlay_image: /images/kevin-ku.jpg
   overlay_filter: rgba(155, 150, 160, 0.5)
   caption: "Photo credit: [**Kevin Ku on Unsplash**](https://unsplash.com/s/photos/deep-learning)"
   actions : 
@@ -101,9 +101,14 @@ For me this course was the hardest and it was hard up to a point where I had to 
   
 This is one of the best machine learning courses in the net and it’s taken by over four (4) million individuals with an average rating of 4.9/5. This course is instructed by famous professor Andrew Ng, the co-founder of the coursera platform, as well as the founder of deeplearning.ai .  
 
-“Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome. Machine learning is so pervasive today that you probably use it dozens of times a day without knowing it. Many researchers also think it is the best way to make progress towards human-level AI. In this class, you will learn about the most effective machine learning techniques, and gain practice implementing them and getting them to work for yourself. More importantly, you’ll learn about not only the theoretical underpinnings of learning, but also gain the practical know-how needed to quickly and powerfully apply these techniques to new problems. Finally, you’ll learn about some of Silicon Valley’s best practices in innovation as it pertains to machine learning and AI.  
+“Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome. Machine learning is so pervasive today that you probably use it dozens of times a day without knowing it. Many researchers also think it is the best way to make progress towards human-level AI.   
 
-This course provides a broad introduction to machine learning, data mining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw from numerous case studies and applications, so that you’ll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas.”
+In this class, you will learn about the most effective machine learning techniques, and gain practice implementing them and getting them to work for yourself. More importantly, you’ll learn about not only the theoretical underpinnings of learning, but also gain the practical know-how needed to quickly and powerfully apply these techniques to new problems. Finally, you’ll learn about some of Silicon Valley’s best practices in innovation as it pertains to machine learning and AI.  
+
+This course provides a broad introduction to machine learning, data mining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI).    
+
+The course will also draw from numerous case studies and applications, so that you’ll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas.”   
+
 In this course, prof Andrew will teach you how to answer the whats, whys and hows of machine learning and by the end of each course, you will be equipped with the basic knowledge and skills to dive into AI research.  
 
 > Note: The programming exercises in this course are either in Matlab or Octave programming languages. Don’t worry, you can take the two-hour MATLAB Onramp course at Mathworks and it will be enough to do the programming exercises.
@@ -126,6 +131,7 @@ AI is transforming many industries. The Deep Learning Specialization provides a 
 
 If you have taken the machine learning course already, then you will be familiar with neural networks. As a matter of fact, you will just be doing the same thing in a different language. Oh yes, with your python and machine learning knowledge, you will probably crush this course and grasps your certificate for yourself.
 This is the first course of the deep learning specialization and you will study the fundamentals of neural networks and deep learning, and apply the concept in the python programming language.   
+
 “By the end, you will be familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.”   
 
 ### 3.2 **[Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)** 
@@ -166,13 +172,16 @@ If you just wanna apply AI in your domain and don’t want to go deep into AI re
 
 By the end, you will be able to build and train Recurrent Neural Networks (RNNs) and commonly-used variants such as GRUs and LSTMs; apply RNNs to Character-level Language Modeling; gain experience with natural language processing and Word Embeddings; and use HuggingFace tokenizers and transformer models to solve different NLP tasks such as NER and Question Answering.”   
 
-After completing this course, which is the last of the deep learning specialization, you must be filled with machine learning and deep learning knowledge and are hungry to apply the concepts in the real world. Having hunger to test your newly acquired skills is a very good thing because indeed the theory is useless without practice. At this point, having a real world project to work on will really help to solidify your skills in AI. I will provide you with information with some projects you can start with at 5., but first, if you wanna immediately correlate your deep learning knowledge to the medical domain, the AI for medicine specialization is a good startup for you.   
+After completing this course, which is the last of the deep learning specialization, you must be filled with machine learning and deep learning knowledge and are hungry to apply the concepts in the real world. Having hunger to test your newly acquired skills is a very good thing because indeed the theory is useless without practice.   
+
+At this point, having a real world project to work on will really help to solidify your skills in AI. I will provide you with information with some projects you can start with at 5., but first, if you wanna immediately correlate your deep learning knowledge to the medical domain, the AI for medicine specialization is a good startup for you.   
 
 ## 4. **[AI for Medicine Coursera Specialization by Deeplearning.ai](https://www.coursera.org/specializations/ai-for-medicine)**
 
 ![image tooltip here](/images/aiformed.png)  
 
-“AI is transforming the practice of medicine. It’s helping doctors diagnose patients more accurately, make predictions about patients’ future health, and recommend better treatments. This three-course Specialization will give you practical experience in applying machine learning to concrete problems in medicine.
+“AI is transforming the practice of medicine. It’s helping doctors diagnose patients more accurately, make predictions about patients’ future health, and recommend better treatments. This three-course Specialization will give you practical experience in applying machine learning to concrete problems in medicine.  
+
 These courses go beyond the foundations of deep learning to teach you the nuances in applying AI to medical use cases. If you are new to deep learning or want to get a deeper foundation of how neural networks work, we recommend taking the Deep Learning Specialization.  
 
 This program will give you practical experience in applying cutting-edge machine learning techniques to concrete problems in modern medicine.”  
@@ -183,7 +192,9 @@ If you take the deep learning specialization very seriously, this specialization
 
 ![image tooltip here](/images/ai4m1.png)  
 
-“AI is transforming the practice of medicine. It’s helping doctors diagnose patients more accurately, make predictions about patients’ future health, and recommend better treatments. As an AI practitioner, you have the opportunity to join in this transformation of modern medicine. If you’re already familiar with some of the math and coding behind AI algorithms, and are eager to develop your skills further to tackle challenges in the healthcare industry, then this specialization is for you. No prior medical expertise is required!”  
+“AI is transforming the practice of medicine. It’s helping doctors diagnose patients more accurately, make predictions about patients’ future health, and recommend better treatments. As an AI practitioner, you have the opportunity to join in this transformation of modern medicine.    
+
+If you’re already familiar with some of the math and coding behind AI algorithms, and are eager to develop your skills further to tackle challenges in the healthcare industry, then this specialization is for you. No prior medical expertise is required!”  
 
 This course and the other two courses will be instructed by Dr Pranav Rajpurkar, a researcher in the Department of Biomedical Informatics at Harvard University. You will learn how to build and train models for image classification and segmentation. Then, you will apply the concept on chest x-ray images.  
 
@@ -197,7 +208,8 @@ This course and the other two courses will be instructed by Dr Pranav Rajpurkar,
 
 ![image tooltip here](/images/ai4m3.png) 
 
-“Medical treatment may impact patients differently based on their existing health conditions. In this third course, you’ll recommend treatments more suited to individual patients using data from randomized control trials. In the second week, you’ll apply machine learning interpretation methods to explain the decision-making of complex machine learning models. Finally, you’ll use natural language entity extraction and question-answering methods to automate the task of labeling medical datasets.”
+“Medical treatment may impact patients differently based on their existing health conditions. In this third course, you’ll recommend treatments more suited to individual patients using data from randomized control trials. In the second week, you’ll apply machine learning interpretation methods to explain the decision-making of complex machine learning models. Finally, you’ll use natural language entity extraction and question-answering methods to automate the task of labeling medical datasets.”   
+
 In this course, you will be a able to build a machine learning model to help decide which treatment method will work best for a patient by making used of the hospital’s historical data. 
 
 ## 5. **Work on a real world AI based project** 
