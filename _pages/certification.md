@@ -74,5 +74,6 @@ To view a certificate, click on it.
 * [Apollo Digital Pathology Summit 2021. Dawn of the Digital Era in Pathology Webinar](https://drive.google.com/file/d/1nDEbfHal6M6fX79jk-HypUnFhIbKPKzN/view?usp=sharing)
 * [Knowledge and Awareness on Covid-19](https://drive.google.com/file/d/1v0wHMnLflUTLhU2p99GJZNnBtQU4CftP/view?usp=sharing)
 * [From Large Cells to Nuclei: Key Considerations for Everyday Sorting Applications](https://drive.google.com/file/d/1PCbd9iCubz_ZdqHCH5LVjJky6hyzYU3k/view?usp=sharing)
+* [New opportunities in systems pharmacology: How to utilize metabolomics for cancer research](https://drive.google.com/file/d/1ea8WlTjMFOr5DRDUi71Pfmc9tsqIogTW/view?usp=sharing)
 
 
