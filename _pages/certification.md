@@ -19,9 +19,10 @@ To view a certificate, click on it.
 * [National Medical Olympiads Certificate of Excellence](https://drive.google.com/file/d/1pUAYzv9vK7Q0WgMP1ew7qJYK_iSIHA9_/view?usp=sharing)  
 
 ## Extracurricular Courses  
-### Genomic Datascience Specialization   
+### Genomic Data Science Specialization   
 * [Introduction to Genomic Technologies](https://coursera.org/share/96bf324e75110d9b20e46defb93126fa)
 * [Python for Genomic Data Science](https://coursera.org/share/1a08762d9b603abe424a0dac299abe80)   
+
 ### AI for Medicine Specialization  
 * [AI for Medical Diagnosis](https://coursera.org/share/18be1bbda7200b8bc54c759706345977)
 * [AI for Medical Prognosis](https://coursera.org/share/502dbf3aed5c42d78b3356c41579b811)  
