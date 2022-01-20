@@ -2,14 +2,10 @@
 main:
   - title: "Home"
     url: /
-  - title: "Projects"
+  - title: "Portfolio"
     url: /Projects/
   - title: "Certification"
     url: /Certification/
-  - title: "Courses"
-    url: /Courses/
-  - title: "Resume"
-    url: /Resume/
   - title: "Blog & Tutorials"
     url: /Blog/
 
