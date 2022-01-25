@@ -22,6 +22,7 @@ To view a certificate, click on it.
 ### Genomic Data Science Specialization   
 * [Introduction to Genomic Technologies](https://coursera.org/share/96bf324e75110d9b20e46defb93126fa)
 * [Python for Genomic Data Science](https://coursera.org/share/1a08762d9b603abe424a0dac299abe80)   
+* [Algorithms for DNA Sequencing](https://coursera.org/share/00d60aafc93f2481647ccca44e9d66c7)
 
 ### AI for Medicine Specialization  
 * [AI for Medical Diagnosis](https://coursera.org/share/18be1bbda7200b8bc54c759706345977)
